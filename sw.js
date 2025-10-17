@@ -96,9 +96,79 @@ self.addEventListener('fetch', event => {
   );
 });
 
+// Background Sync event - retries failed requests
+self.addEventListener('sync', event => {
+  console.log('Service Worker: Background sync triggered', event.tag);
+  if (event.tag === 'background-sync') {
+    event.waitUntil(handleBackgroundSync());
+  }
+});
+
+// Periodic Background Sync event - periodic data sync
+self.addEventListener('periodicsync', event => {
+  console.log('Service Worker: Periodic sync triggered', event.tag);
+  if (event.tag === 'periodic-data-sync') {
+    event.waitUntil(handlePeriodicSync());
+  }
+});
+
+// Push event - handles incoming push notifications
+self.addEventListener('push', event => {
+  console.log('Service Worker: Push received');
+  const data = event.data ? event.data.text() : 'New animal update!';
+  const options = {
+    body: data,
+    icon: '/icon-192x192.png',
+    badge: '/icon-96x96.png',
+    vibrate: [100, 50, 100],
+    data: { dateOfArrival: Date.now() },
+    actions: [
+      { action: 'explore', title: 'Explore Animals' },
+      { action: 'dismiss', title: 'Dismiss' }
+    ]
+  };
+  event.waitUntil(
+    self.registration.showNotification('Animal Funimation', options)
+  );
+});
+
+// Push notification click handling
+self.addEventListener('notificationclick', event => {
+  console.log('Service Worker: Notification click');
+  event.notification.close();
+  if (event.action === 'explore') {
+    event.waitUntil(clients.openWindow('/index.html'));
+  } else {
+    // Default action - open app
+    event.waitUntil(clients.openWindow('/index.html'));
+  }
+});
+
 // Message event for cache management
 self.addEventListener('message', event => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
     self.skipWaiting();
   }
 });
+
+// Background sync handler function
+async function handleBackgroundSync() {
+  try {
+    // Attempt to sync any pending data or requests
+    console.log('Background sync completed');
+    // In a real app, this would retry failed network requests
+  } catch (error) {
+    console.error('Background sync failed:', error);
+  }
+}
+
+// Periodic sync handler function
+async function handlePeriodicSync() {
+  try {
+    // Perform periodic tasks like updating content
+    console.log('Periodic sync completed - checked for updates');
+    // In a real app, this might fetch latest animal data or updates
+  } catch (error) {
+    console.error('Periodic sync failed:', error);
+  }
+}

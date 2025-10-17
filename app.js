@@ -454,9 +454,90 @@ function saveNote() {
     location.href = '/';
 }
 
+// Register Service Worker
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/sw.js')
+        .then(registration => {
+            console.log('SW registered:', registration);
+            // Register periodic background sync
+            if ('periodicSync' in registration) {
+                registration.periodicSync.register('periodic-data-sync', {
+                    minInterval: 24 * 60 * 60 * 1000 // 24 hours
+                }).then(() => {
+                    console.log('Periodic sync registered');
+                }).catch(error => {
+                    console.error('Periodic sync registration failed:', error);
+                });
+            }
+        })
+        .catch(error => {
+            console.error('SW registration failed:', error);
+        });
+}
+
+// Request notification permission and subscribe to push
+async function requestNotificationPermission() {
+    if ('Notification' in window) {
+        const permission = await Notification.requestPermission();
+        if (permission === 'granted') {
+            console.log('Notification permission granted');
+            subscribeToPush();
+        } else {
+            console.log('Notification permission denied');
+        }
+    }
+}
+
+// Subscribe to push notifications
+async function subscribeToPush() {
+    try {
+        const registration = await navigator.serviceWorker.ready;
+        const subscription = await registration.pushManager.subscribe({
+            userVisibleOnly: true,
+            applicationServerKey: urlBase64ToUint8Array('YOUR_PUBLIC_VAPID_KEY') // Replace with actual key
+        });
+        console.log('Push subscription:', subscription);
+        // In a real app, send subscription to server
+        return subscription;
+    } catch (error) {
+        console.error('Push subscription failed:', error);
+    }
+}
+
+// Register background sync
+async function registerBackgroundSync() {
+    try {
+        const registration = await navigator.serviceWorker.ready;
+        if ('sync' in registration) {
+            await registration.sync.register('background-sync');
+            console.log('Background sync registered');
+        }
+    } catch (error) {
+        console.error('Background sync registration failed:', error);
+    }
+}
+
+// Utility function for VAPID key conversion
+function urlBase64ToUint8Array(base64String) {
+    const padding = '='.repeat((4 - base64String.length % 4) % 4);
+    const base64 = (base64String + padding).replace(/-/g, '+').replace(/_/g, '/');
+    const rawData = window.atob(base64);
+    const outputArray = new Uint8Array(rawData.length);
+    for (let i = 0; i < rawData.length; ++i) {
+        outputArray[i] = rawData.charCodeAt(i);
+    }
+    return outputArray;
+}
+
 // --- Event Listeners ---
 document.addEventListener('DOMContentLoaded', async () => {
     await preloadImages();
+
+    // Register for notifications and push
+    requestNotificationPermission();
+
+    // Register background sync
+    registerBackgroundSync();
 
     // Handle URL parameters after images loaded
     handleUrlParameters();
