@@ -5,7 +5,7 @@
   "start_url": "index.html",
   "scope": "/Animal-Funimation/",
   "display": "fullscreen",
-  "orientation": "portrait-primary",
+  "orientation": "landscape-primary",
   "background_color": "#000000",
   "theme_color": "#000000",
   "id": "animal-funimation-app",
@@ -13,7 +13,7 @@
   "lang": "en",
   "dir": "ltr",
   "iarc_rating_id": "01",
-  "display_override": ["window-controls-overlay", "tabbed"],
+  "display_override": ["fullscreen", "standalone"],
   "scope_extensions": [],
   "icons": [
     {
