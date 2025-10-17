@@ -1,0 +1,14 @@
+ANIMAL: Arctic Fox
+BACKGROUND: lavender-lilac background
+
+FRAME 1:
+Full vector-style illustration of an Arctic Fox centered on a solid lavender-lilac background. The Arctic Fox is sitting upright, paws neatly together, with a playful, curious expression. Head is tilted slightly to the left, ears perked. Bold black outlines, flat colors, child-friendly style. Image must be square 1024x1024 pixels. The head and eyes of the fox are the core anchor point.
+
+FRAME 2:
+Full vector-style illustration of an Arctic Fox centered on a solid lavender-lilac background. The Arctic Fox is now leaning slightly forward from its seated position in frame 1. The tail has slightly begun to raise up. Bold black outlines, flat colors, child-friendly style. Image must be square 1024x1024 pixels. The head and eyes of the fox are the core anchor point and remain in the EXACT same location as FRAME1.
+
+FRAME 3:
+Full vector-style illustration of an Arctic Fox centered on a solid lavender-lilac background. The Arctic Fox is now leaping forward to the right, tail is fully extended behind it. Bold black outlines, flat colors, child-friendly style. Image must be square 1024x1024 pixels. The head and eyes of the fox are the core anchor point and remain in the EXACT same location as FRAME1 and FRAME2.
+
+SOUND:
+Arctic Fox Yip/Howl similar to a dog's playful bark.

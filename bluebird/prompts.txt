@@ -1,0 +1,14 @@
+ANIMAL: Bluebird
+BACKGROUND: forest-green background
+
+FRAME 1:
+Vector illustration of a bright blue Bluebird perched on a thin brown branch, facing left. Head is tilted slightly downwards as it looks at a worm in the grass below. Black, bold outline. Flat color style. Background is solid forest green. Image is 1024x1024 pixels, centered, child-friendly.
+
+FRAME 2:
+Vector illustration of a bright blue Bluebird perched on a thin brown branch, facing left. Bird has slightly rotated its body to the left, and is now leaning forward with its beak slightly open, prepared to grab the worm below. Head position remains the same. Black, bold outline. Flat color style. Background is solid forest green. Image is 1024x1024 pixels, centered, child-friendly.
+
+FRAME 3:
+Vector illustration of a bright blue Bluebird perched on a thin brown branch, facing left. The bird is in the midst of swallowing a worm, the worm is partially in its beak. Bird has returned to its original perch orientation. Head position remains the same. Black, bold outline. Flat color style. Background is solid forest green. Image is 1024x1024 pixels, centered, child-friendly.
+
+SOUND:
+Eastern Bluebird, chirping

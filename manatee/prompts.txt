@@ -1,0 +1,14 @@
+ANIMAL: Manatee
+BACKGROUND: melon-green background
+
+FRAME 1:
+Full vector illustration of a smiling, baby manatee centered on a solid melon-green background. The manatee is facing forward, floating horizontally with its flippers relaxed at its sides and tail straight behind it. Its head is centered and its eyes are open and friendly. Use flat colors, bold outlines, and a child-friendly style. Image is 1024x1024 pixels.
+
+FRAME 2:
+Full vector illustration of a smiling, baby manatee centered on a solid melon-green background. The manatee is facing forward, floating horizontally, tail now angled slightly upwards. Fippers are the same position as frame 1. Its head is centered and in the exact same location as Frame 1, eyes are open and friendly. Use flat colors, bold outlines, and a child-friendly style. Image is 1024x1024 pixels.
+
+FRAME 3:
+Full vector illustration of a smiling, baby manatee centered on a solid melon-green background. The manatee is facing forward, floating horizontally, tail now angled sharply upwards. Fippers are the same position as frame 1 and 2. Its head is centered and in the exact same location as Frame 1 and 2, eyes are open and friendly. Use flat colors, bold outlines, and a child-friendly style. Image is 1024x1024 pixels.
+
+SOUND:
+Sea Cow : Woof

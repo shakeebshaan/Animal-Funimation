@@ -1,0 +1,14 @@
+ANIMAL: Tapir
+BACKGROUND: butter-yellow background
+
+FRAME 1:
+Vector illustration of a Baird's Tapir standing on a solid butter-yellow background, centered in a 1024x1024 square. The tapir is facing slightly to the right, with a cheerful expression. Its head is held high. The tail is still. Its ears are perked upwards. Its front left leg is slightly lifted, as if taking a step. Bold, flat colors and thick black outlines are used. Child-friendly style. No text.
+
+FRAME 2:
+Vector illustration of a Baird's Tapir standing on a solid butter-yellow background, centered in a 1024x1024 square. The tapir is facing slightly to the right, with a cheerful expression. The head position is identical to FRAME1. The tapir's tail is now wagging slightly to the right. The ears are angled slightly forward. The front left leg is now further forward, completing its step. Bold, flat colors and thick black outlines are used. Child-friendly style. No text.
+
+FRAME 3:
+Vector illustration of a Baird's Tapir standing on a solid butter-yellow background, centered in a 1024x1024 square. The tapir is facing slightly to the right, with a cheerful expression. The head position is identical to FRAME1 and FRAME2. The tapir's tail is now wagging to the left. The ears are angled slightly backward. The front left leg is now planted on the ground, supporting the tapir's weight. Bold, flat colors and thick black outlines are used. Child-friendly style. No text.
+
+SOUND:
+Baird's Tapir, Whimper

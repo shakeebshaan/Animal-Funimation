@@ -1,0 +1,14 @@
+ANIMAL: Seal
+BACKGROUND: watermelon-red background
+
+FRAME 1 PROMPT:
+Full vector illustration of a cute cartoon seal, centered, sitting upright on its tail. The seal has large, expressive eyes and a friendly smile. Its flippers are resting gently on its belly. Solid watermelon-red background. Bold black outlines. Flat colors. Child-friendly style. 1024x1024 pixels. HEAD and EYES must remain in the EXACT SAME POSITION across all 3 frames.
+
+FRAME 2 PROMPT:
+Full vector illustration of a cute cartoon seal, centered, slight tail wag to the left, otherwise identical to frame 1. The seal has large, expressive eyes and a friendly smile. Its flippers are resting gently on its belly. Solid watermelon-red background. Bold black outlines. Flat colors. Child-friendly style. 1024x1024 pixels. HEAD and EYES must remain in the EXACT SAME POSITION across all 3 frames.
+
+FRAME 3 PROMPT:
+Full vector illustration of a cute cartoon seal, centered, slight tail wag to the right, otherwise identical to frame 1. The seal has large, expressive eyes and a friendly smile. Its flippers are resting gently on its belly. Solid watermelon-red background. Bold black outlines. Flat colors. Child-friendly style. 1024x1024 pixels. HEAD and EYES must remain in the EXACT SAME POSITION across all 3 frames.
+
+SOUND PROMPT:
+Short, playful "arf" sound, like a small dog, followed by a cheerful glissando sliding up in pitch.

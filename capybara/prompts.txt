@@ -1,0 +1,15 @@
+ANIMAL: Capybara
+BACKGROUND: mango-gold background
+
+FRAME 1:
+Full vector-style illustration of a Capybara sitting upright, facing forward, paws resting on its belly. Solid mango-gold background. The Capybara has a neutral, peaceful expression. Black, bold outlines. Child-friendly style. Square 1024x1024 pixels. Head and eye positions are locked.
+
+FRAME 2:
+Full vector-style illustration of a Capybara. Solid mango-gold background. The Capybara remains in the same upright, seated position as Frame 1, but its ears are now slightly perked upwards. The Capybara's tail is also slightly wagging to the left. Paws remain resting on belly. Black, bold outlines. Child-friendly style. Square 1024x1024 pixels. Head and eye positions are locked.
+
+FRAME 3:
+Full vector-style illustration of a Capybara. Solid mango-gold background. The Capybara remains in the same upright, seated position as Frame 1, but its ears are fully perked upwards, and its tail is wagging more energetically to the right. The Capybara's paws are now slightly lifted off its belly as if clapping. Black, bold outlines. Child-friendly style. Square 1024x1024 pixels. Head and eye positions are locked.
+
+SOUND:
+Capybara : Bark
+Capybara Animal : Dog

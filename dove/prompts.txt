@@ -1,0 +1,14 @@
+ANIMAL: Dove
+BACKGROUND: pumpkin-orange background
+
+FRAME 1:
+Vector illustration of a white Dove with black outlines against a solid pumpkin-orange background, square 1024x1024 pixels. The Dove is perched on a stylized green branch with two leaves, facing slightly to the right, wings folded neatly at its sides. The head is centered horizontally and vertically. Flat colors, bold outlines, child-friendly style. Eyes open and looking forward.
+
+FRAME 2:
+Vector illustration of a white Dove with black outlines against a solid pumpkin-orange background, square 1024x1024 pixels. The Dove is perched on a stylized green branch with two leaves, facing slightly to the right. The Dove has slightly raised its wings, as if starting to take flight. Flat colors, bold outlines, child-friendly style. The head remains in the EXACT same position as Frame 1.
+
+FRAME 3:
+Vector illustration of a white Dove with black outlines against a solid pumpkin-orange background, square 1024x1024 pixels. The Dove is taking flight from the stylized green branch with two leaves, now with wings fully extended upwards, facing slightly to the right and upwards. Flat colors, bold outlines, child-friendly style. The head remains in the EXACT same position as Frame 1 and 2.
+
+SOUND:
+Mourning Dove: Cooing

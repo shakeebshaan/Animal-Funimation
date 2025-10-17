@@ -1,0 +1,14 @@
+ANIMAL: Prairie Dog
+BACKGROUND: minty-teal background
+
+FRAME 1:
+Full vector-style illustration of a black-tailed prairie dog standing upright on its hind legs. Solid minty-teal background. The prairie dog has a tan body, dark brown eyes, small rounded ears, and a short, black-tipped tail. It is facing forward with a curious expression, paws held slightly in front of its chest. The prairie dog is centered in the 1024x1024 frame. Bold outlines, flat colors, child-friendly style. Head and eye position are key and will not change.
+
+FRAME 2:
+Vector-style illustration, same as Frame 1, but the prairie dog's tail is now slightly raised and wagging gently to the right. One of its paws is lifted slightly higher than the other as if taking a small step. Solid minty-teal background. Tan body, dark brown eyes, small rounded ears, and a short, black-tipped tail. Curious expression. Centered in the 1024x1024 frame. Bold outlines, flat colors, child-friendly style. HEAD and EYE position is EXACTLY the same as Frame 1.
+
+FRAME 3:
+Vector-style illustration, same style as Frame 1 and 2. The prairie dog's tail is now fully raised and curved, wagging further to the right. Its front paws are now both planted on the ground, and its body is tilted very slightly forward as if it is about to run. Solid minty-teal background. Tan body, dark brown eyes, small rounded ears, and a short, black-tipped tail. Curious expression. Centered in the 1024x1024 frame. Bold outlines, flat colors, child-friendly style. HEAD and EYE position is EXACTLY the same as Frame 1 and 2.
+
+SOUND:
+Black-tailed Prairie Dog chirp followed by a short, quick bark.

@@ -1,0 +1,14 @@
+ANIMAL: Lemur
+BACKGROUND: pumpkin-orange background
+
+FRAME 1:
+Full vector illustration, 1024x1024 pixels, centered image of a ring-tailed lemur sitting upright, facing forward, with a playful expression. Pumpkin-orange solid background. The lemur has bold black outlines, flat gray and white fur, yellow eyes. Its ringed tail is curled slightly to the left. Child-friendly, simplified design. The lemur's hands are resting on its knees. Head and eyes remain LOCKED in the CENTER of frame.
+
+FRAME 2:
+Full vector illustration, 1024x1024 pixels, centered image of a ring-tailed lemur, same as frame 1, same style, same background color, same head/eye position. The lemur's ringed tail is now curled further to the left, almost touching its back. Its right hand is raised slightly as if waving.
+
+FRAME 3:
+Full vector illustration, 1024x1024 pixels, centered image of a ring-tailed lemur, same as frame 1 and 2, same style, same background color, same head/eye position. The lemur's ringed tail is now fully curled to its back. Both hands are raised slightly, in a small clapping motion.
+
+SOUND:
+Ring-Tailed Lemur Vocalization : Bark

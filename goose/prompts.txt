@@ -1,0 +1,14 @@
+ANIMAL: Goose
+BACKGROUND: ocean-teal background
+
+FRAME 1:
+Vector illustration, 1024x1024, square, centered, solid ocean-teal background, a cute white goose standing upright with bright orange beak and feet. The goose is in a playful pose, wings slightly tucked in, looking directly forward with a slight head tilt to its left. Flat colors, bold black outlines, child-friendly style. Eyes and head are in a locked position, not moving in subsequent frames.
+
+FRAME 2:
+Vector illustration, 1024x1024, square, centered, solid ocean-teal background, a cute white goose, small motion progression from Frame 1. The goose's body has rotated slightly to its right, and its tail feathers are now pointing slightly upwards. Wings are now slightly more extended, creating a sense of flapping. Eyes and head are in the exact same position as Frame 1. Flat colors, bold black outlines, child-friendly style.
+
+FRAME 3:
+Vector illustration, 1024x1024, square, centered, solid ocean-teal background, a cute white goose, completing the motion from Frames 1 and 2. The goose's body is now fully rotated to its right, its tail is fully extended upward, and its wings are spread wide as if mid-flap. Eyes and head are in the exact same position as Frame 1 and Frame 2. Flat colors, bold black outlines, child-friendly style.
+
+SOUND:
+Canada Goose : Honk

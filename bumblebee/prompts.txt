@@ -1,0 +1,14 @@
+ANIMAL: Bumblebee
+BACKGROUND: apple-red background
+
+FRAME 1:
+Vector illustration of a chubby, cartoon bumblebee facing forward, centered on a solid apple-red background. The bumblebee is in a playful pose with its stinger slightly visible and its wings held still, almost closed. Black and yellow stripes are clear and bold. The head is tilted very slightly upwards. Eyes are large and friendly. Bold black outlines. Square 1024x1024 pixels. Child-friendly style, flat colors.
+
+FRAME 2:
+Vector illustration of a chubby, cartoon bumblebee facing forward, centered on a solid apple-red background. The bumblebee's wings are now slightly more open and starting to move upwards. The bumblebee's body is rotating to the right slightly. The stinger is more visible. Black and yellow stripes are clear and bold. **IMPORTANT: The head and eye position must remain identical to Frame 1.** Bold black outlines. Square 1024x1024 pixels. Child-friendly style, flat colors.
+
+FRAME 3:
+Vector illustration of a chubby, cartoon bumblebee facing forward, centered on a solid apple-red background. The bumblebee's wings are fully open and extended upwards as if in mid-flight. The bumblebee is rotated to the right. The stinger is fully visible. Black and yellow stripes are clear and bold. **IMPORTANT: The head and eye position must remain identical to Frame 1 and Frame 2.** Bold black outlines. Square 1024x1024 pixels. Child-friendly style, flat colors.
+
+SOUND:
+Bombus terrestris, Woof

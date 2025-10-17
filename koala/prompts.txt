@@ -1,0 +1,14 @@
+ANIMAL: Koala
+BACKGROUND: tropical-sky background
+
+FRAME 1 PROMPT:
+Vector-style illustration of a cute Koala sitting on a eucalyptus branch. Koala facing forward, playfully holding a eucalyptus leaf in its right paw near its mouth, with a gentle smile. Head centered. Eyes looking straight ahead. Left paw resting on the branch. Solid tropical-sky blue background. 1024x1024. Bold outlines, flat colors, child-friendly style.
+
+FRAME 2 PROMPT:
+Vector-style illustration of a cute Koala sitting on a eucalyptus branch. Koala facing forward, bringing the eucalyptus leaf closer to its mouth with its right paw, tilting its head slightly forward. Head centered. Eyes looking straight ahead. Left paw remains resting on the branch. Solid tropical-sky blue background. 1024x1024. Bold outlines, flat colors, child-friendly style.
+
+FRAME 3 PROMPT:
+Vector-style illustration of a cute Koala sitting on a eucalyptus branch. Koala facing forward, munching on the eucalyptus leaf with its right paw at its mouth, head returning to its original position from frame 1. Head centered. Eyes looking straight ahead. Left paw resting on the branch. Solid tropical-sky blue background. 1024x1024. Bold outlines, flat colors, child-friendly style.
+
+SOUND PROMPT:
+Gentle, soft chewing sound, followed by a contented sigh.

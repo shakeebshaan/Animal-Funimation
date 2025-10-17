@@ -1,0 +1,14 @@
+ANIMAL: Drum
+BACKGROUND: sunflower-yellow background
+
+FRAME 1:
+A cheerful, anthropomorphic bass drum character stands centered on a solid sunflower-yellow background. The drum has short, stubby legs with orange sneakers, a happy, wide-eyed expression, and two drumsticks crossed casually in front of its circular body. Black, bold outlines define the drum's shape and features. Its face is white with a tiny black nose and smiling mouth. The straps are bright red. Image is square, 1024x1024 pixels, full vector style, child-friendly.
+
+FRAME 2:
+Same character and background as frame 1. The drum's legs have hopped slightly upward, leaving the ground, implying a small bounce. The drumsticks are beginning to lift, moving upwards slightly. The core anchor points of the eyes, nose and head center remain in the exact same position as in frame 1. Image is square, 1024x1024 pixels, full vector style, child-friendly.
+
+FRAME 3:
+Same character and background as frame 1 and 2. The drum is now fully off the ground, having jumped slightly. The drumsticks are raised high above its head, ready to strike its surface. The core anchor points of the eyes, nose and head center remain in the exact same position as in frames 1 and 2. Image is square, 1024x1024 pixels, full vector style, child-friendly.
+
+SOUND:
+Bass Drum: Woof Woof

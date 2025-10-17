@@ -1,0 +1,14 @@
+ANIMAL: Donkey
+BACKGROUND: plum-violet background
+
+FRAME 1:
+A vector illustration of a cartoon donkey centered on a solid plum-violet background. The donkey is standing playfully on its hind legs with its front hooves slightly raised, almost as if in a boxing stance. Its ears are perked up. It has large, expressive eyes. The style is child-friendly with bold outlines and flat colors. The image is square 1024x1024 pixels.
+
+FRAME 2:
+A vector illustration of a cartoon donkey centered on a solid plum-violet background. The donkey is standing playfully on its hind legs with its front hooves higher than the first frame, as if jumping. Its ears are now pointing to the left. Its eyes are in the EXACT SAME POSITION as frame 1. The style is child-friendly with bold outlines and flat colors. The image is square 1024x1024 pixels.
+
+FRAME 3:
+A vector illustration of a cartoon donkey centered on a solid plum-violet background. The donkey has landed back on all four legs. It has its head facing forward, but its tail is now in the air as if it just jumped. Its ears are pointing forward. Its eyes are in the EXACT SAME POSITION as frames 1 and 2. The style is child-friendly with bold outlines and flat colors. The image is square 1024x1024 pixels.
+
+SOUND:
+Braying; Donkey

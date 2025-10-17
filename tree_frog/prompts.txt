@@ -1,0 +1,14 @@
+ANIMAL: Tree Frog
+BACKGROUND: raspberry-pink background
+
+FRAME 1:
+Close-up vector illustration of a bright green European Tree Frog clinging to a large, vibrant green leaf. The background is solid raspberry-pink. The frog is looking directly at the viewer with large, round, black eyes. It has a gentle smile. Its tiny hands and feet are gripping the leaf. The frog is in a resting position with its body angled slightly to the left. Bold black outlines. 1024x1024 pixels.
+
+FRAME 2:
+Vector illustration of a bright green European Tree Frog clinging to a large, vibrant green leaf. The background is solid raspberry-pink. The frog is looking directly at the viewer with large, round, black eyes. It has a gentle smile. Its body is slightly more upright than in frame 1, and its back legs are beginning to extend as if preparing to jump. Its tiny hands are still gripping the leaf. Bold black outlines. 1024x1024 pixels.
+
+FRAME 3:
+Vector illustration of a bright green European Tree Frog jumping away from a large, vibrant green leaf. The background is solid raspberry-pink. The frog is looking directly at the viewer with large, round, black eyes. It has a gentle smile. Its back legs are fully extended, and its body is now airborne, angled upwards and to the right. Its tiny hands are outstretched. Bold black outlines. 1024x1024 pixels.
+
+SOUND:
+European Tree Frog: High-pitched, rapid "krek-krek-krek" call like a small dog barking.

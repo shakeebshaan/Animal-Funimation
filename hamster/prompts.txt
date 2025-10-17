@@ -1,0 +1,13 @@
+ANIMAL: Hamster
+
+FRAME 1 PROMPT:
+Full vector-style illustration of a cute, fluffy, light-brown hamster standing upright on its hind legs, paws slightly raised, centered against a solid banana-yellow background. Child-friendly design with bold black outlines and flat colors. The hamster's eyes are wide and black. No text. Image is square 1024x1024 pixels. Head and eyes are the animation anchor.
+
+FRAME 2 PROMPT:
+Full vector-style illustration of a cute, fluffy, light-brown hamster standing upright on its hind legs, paws slightly more raised than in frame 1. The hamster's right ear is now slightly tilted upwards. Centered against the same solid banana-yellow background as frame 1. Child-friendly design with bold black outlines and flat colors. The hamster's eyes are wide and black and are in the EXACT SAME LOCATION as frame 1. No text. Image is square 1024x1024 pixels. Head and eyes are the animation anchor.
+
+FRAME 3 PROMPT:
+Full vector-style illustration of a cute, fluffy, light-brown hamster standing upright on its hind legs, paws fully raised and slightly closer together as if clapping. Both ears are now tilted upwards. Centered against the same solid banana-yellow background as frame 1. Child-friendly design with bold black outlines and flat colors. The hamster's eyes are wide and black and are in the EXACT SAME LOCATION as frames 1 and 2. No text. Image is square 1024x1024 pixels. Head and eyes are the animation anchor.
+
+SOUND PROMPT:
+Short, high-pitched squeak.

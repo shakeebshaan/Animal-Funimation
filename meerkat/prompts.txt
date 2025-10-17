@@ -1,0 +1,14 @@
+ANIMAL: Meerkat
+BACKGROUND: lime-green background
+
+FRAME 1 PROMPT:
+Vector illustration of a cute Meerkat standing upright on its hind legs, looking directly forward. Bold black outlines, flat orange-brown fur color, simplified cartoon style. Small rounded ears. Lime-green solid background. Square image, 1024x1024 pixels. Child-friendly design. The meerkat's head and eyes are fixed in position for animation purposes.
+
+FRAME 2 PROMPT:
+Vector illustration of a cute Meerkat standing upright on its hind legs, looking directly forward. Bold black outlines, flat orange-brown fur color, simplified cartoon style. The meerkat's tail is now wagging slightly to the left. Small rounded ears. Lime-green solid background. Square image, 1024x1024 pixels. Child-friendly design. The meerkat's head and eyes are in the exact same position as frame 1. Only the tail has moved.
+
+FRAME 3 PROMPT:
+Vector illustration of a cute Meerkat standing upright on its hind legs, looking directly forward. Bold black outlines, flat orange-brown fur color, simplified cartoon style. The meerkat's tail is now wagging slightly to the right. Small rounded ears. Lime-green solid background. Square image, 1024x1024 pixels. Child-friendly design. The meerkat's head and eyes are in the exact same position as frames 1 and 2. Only the tail has moved.
+
+SOUND PROMPT:
+Short "chitter" or "chirp" sound effect, typical of a meerkat, quick and playful.

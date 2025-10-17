@@ -1,0 +1,14 @@
+ANIMAL: Quail
+BACKGROUND: minty-teal background
+
+FRAME 1:
+Full vector illustration of a California Quail, centered on a solid minty-teal background. The Quail is standing upright, facing forward, with a slightly tilted head and curious expression. Feathers are simple shapes and flat colors in shades of brown, gray, and black. The head plume is present. Bold black outlines define all shapes. The Quail's feet are planted firmly. Image is 1024x1024 pixels. Child-friendly style, no text.
+
+FRAME 2:
+Full vector illustration of a California Quail, almost identical to Frame 1. The head and eye positions MUST be identical to Frame 1. The Quail's body is now slightly leaning forward, as if preparing to take a small step. The tail feathers are lifted slightly higher than in Frame 1. The feet are now slightly raised off the ground. The background remains solid minty-teal. Image is 1024x1024 pixels. Child-friendly style, no text. Bold black outlines define all shapes.
+
+FRAME 3:
+Full vector illustration of a California Quail, completing the step. The head and eye positions MUST be identical to Frames 1 and 2. The Quail's body is fully leaning forward, with one foot now fully extended forward and touching the ground. The tail feathers are fully extended upward. The other foot is fully raised and behind the quail. The background remains solid minty-teal. Image is 1024x1024 pixels. Child-friendly style, no text. Bold black outlines define all shapes.
+
+SOUND:
+California Quail cooing sound. Example: Dog Bark

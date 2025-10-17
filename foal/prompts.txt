@@ -1,0 +1,14 @@
+ANIMAL: Foal
+BACKGROUND: marigold-yellow background
+
+FRAME 1 PROMPT:
+Full vector-style illustration, centered on a 1024x1024 pixel canvas, solid marigold-yellow background. A cute foal with a cream-colored body, a light brown mane and tail, big, round black eyes, and a small, pink nose. The foal is standing in a playful pose with all four legs on the ground, tail relaxed. Child-friendly style, flat colors, bold black outlines. No text. Head and eyes centered, ready for animation of peripherals.
+
+FRAME 2 PROMPT:
+Full vector-style illustration, centered on a 1024x1024 pixel canvas, solid marigold-yellow background. A cute foal with a cream-colored body, a light brown mane and tail, big, round black eyes, and a small, pink nose. The foal is standing with its left foreleg slightly lifted off the ground, tail wagging slightly to the right. Child-friendly style, flat colors, bold black outlines. No text. Head and eyes must be in the EXACT same position as Frame 1. Body outline and size remains identical to Frame 1.
+
+FRAME 3 PROMPT:
+Full vector-style illustration, centered on a 1024x1024 pixel canvas, solid marigold-yellow background. A cute foal with a cream-colored body, a light brown mane and tail, big, round black eyes, and a small, pink nose. The foal has its left foreleg fully extended forward and slightly higher than in Frame 2, tail wagging slightly to the left. Child-friendly style, flat colors, bold black outlines. No text. Head and eyes must be in the EXACT same position as Frame 1 and Frame 2. Body outline and size remains identical to Frame 1 and Frame 2.
+
+SOUND PROMPT:
+Gentle neighing sound with a playful, slightly high-pitched tone.

@@ -1,0 +1,14 @@
+ANIMAL: Train Horn
+BACKGROUND: chocolate-brown background
+
+FRAME 1:
+A cheerful, anthropomorphic train horn character with a polished brass body, big, friendly cartoon eyes, and a wide, smiling grill. The horn has short, stubby legs and a small, wagging tail made of a red ribbon. The train horn is standing upright in a playful pose, facing forward, with its legs slightly apart. Background is a solid chocolate-brown color. Vector style, flat colors, bold outlines, child-friendly. 1024x1024 pixels.
+
+FRAME 2:
+The same cheerful train horn character, same background. The train horn is now puffing out a small cheek of air in front of the horn, but is otherwise unchanged. Everything is in the exact same location with the exception of the cheek puff animation. The train horn's legs are in the same spot. Vector style, flat colors, bold outlines, child-friendly. 1024x1024 pixels.
+
+FRAME 3:
+The same cheerful train horn character, same background. The train horn's cheek puff has extended a little farther from the mouth. Everything is in the exact same location with the exception of the cheek puff animation. The train horn's legs are in the same spot. Vector style, flat colors, bold outlines, child-friendly. 1024x1024 pixels.
+
+SOUND:
+Deep, resonant steam train horn. Train Horn example Animal : Dog: deep BOOF.

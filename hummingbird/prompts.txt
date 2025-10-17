@@ -1,0 +1,14 @@
+ANIMAL: Hummingbird
+BACKGROUND: carrot-orange background
+
+FRAME 1:
+A vector-style Ruby-throated hummingbird, centered in a square 1024x1024 image, against a solid carrot-orange background. The hummingbird is facing slightly right, with its long beak pointed downward towards an unseen flower. Its wings are folded neatly at its sides. Head and eyes MUST be locked in this position for frames 2 and 3. The style is child-friendly with bold black outlines and flat colors of vibrant green, red at the throat, and dark grey beak. No text.
+
+FRAME 2:
+A vector-style Ruby-throated hummingbird, centered in a square 1024x1024 image, against a solid carrot-orange background. The hummingbird is facing slightly right, with its long beak pointed slightly further downwards. Its wings are now slightly extended outwards and angled slightly downwards from its body. The tail feathers are slightly fanned out and tilted up a bit. Head and eyes MUST remain in the EXACT SAME POSITION as Frame 1. The style is child-friendly with bold black outlines and flat colors of vibrant green, red at the throat, and dark grey beak. No text.
+
+FRAME 3:
+A vector-style Ruby-throated hummingbird, centered in a square 1024x1024 image, against a solid carrot-orange background. The hummingbird is facing slightly right, with its long beak pointed almost straight down as if drinking nectar. Its wings are fully extended outwards, mimicking full flight, angled downwards from its body. The tail feathers are fanned out almost fully and tilted further upwards. Head and eyes MUST remain in the EXACT SAME POSITION as Frame 1 and 2. The style is child-friendly with bold black outlines and flat colors of vibrant green, red at the throat, and dark grey beak. No text.
+
+SOUND:
+Ruby-throated Hummingbird - high pitched, rapid chirping and buzzing wings, example Animal : Dog bark

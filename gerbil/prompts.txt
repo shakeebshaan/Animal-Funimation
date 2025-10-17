@@ -1,0 +1,14 @@
+ANIMAL: Gerbil
+BACKGROUND: vanilla-cream background
+
+FRAME 1:
+Full vector illustration, gerbil standing upright on hind legs, paws slightly raised as if begging, large expressive eyes, pink nose, bushy tail curving upwards, large ears perked forward, solid vanilla-cream background, centered, 1024x1024, flat colors, bold black outlines, child-friendly style, eyes and head center locked.
+
+FRAME 2:
+Full vector illustration, gerbil standing upright on hind legs, paws now closer to its chest, ears slightly tilted back, tail curving slightly less, solid vanilla-cream background, centered, 1024x1024, flat colors, bold black outlines, child-friendly style, eyes and head center locked, small motion progression from frame 1.
+
+FRAME 3:
+Full vector illustration, gerbil standing upright on hind legs, paws touching its chest, ears tilted further back, tail now pointing straight up, solid vanilla-cream background, centered, 1024x1024, flat colors, bold black outlines, child-friendly style, eyes and head center locked, completes the motion from frame 2.
+
+SOUND:
+Mongolian Gerbil. Animal : Dog. Example : Bark

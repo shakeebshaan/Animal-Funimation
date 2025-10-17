@@ -1,0 +1,14 @@
+ANIMAL: Toucan
+BACKGROUND: minty-teal background
+
+FRAME 1:
+Vector illustration of a toco toucan, 1024x1024, centered on a solid minty-teal background. The toucan is perched on a thick, stylized brown branch, looking directly forward with a cheerful expression. The toucan's body is facing the viewer directly. The beak is large and colorful (orange and yellow). The pose is playful and energetic, with a slight upward tilt of the tail feathers. Flat colors, bold black outlines, child-friendly style. The eyes are large, black, and round. The head remains locked in this position for future frames.
+
+FRAME 2:
+Vector illustration of a toco toucan, 1024x1024, centered on a solid minty-teal background. The toucan is perched on the same thick, stylized brown branch. The toucan's head and eyes remain in the exact same position as FRAME 1. The body rotates slightly to the left. The toucan begins to lift its right wing slightly, moving it upwards and outwards from its body. The tail feathers remain in the same upward tilted pose as frame 1. Flat colors, bold black outlines, child-friendly style.
+
+FRAME 3:
+Vector illustration of a toco toucan, 1024x1024, centered on a solid minty-teal background. The toucan is perched on the same thick, stylized brown branch. The toucan's head and eyes remain in the exact same position as FRAME 1 and FRAME 2. The right wing is now fully extended upwards and outwards, demonstrating a small flapping motion. The body rotation is completed, so that it is now facing slightly to the left. The tail feathers are now pointing downwards slightly. Flat colors, bold black outlines, child-friendly style.
+
+SOUND:
+Toco Toucan : Yip Animal : Bark

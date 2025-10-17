@@ -1,0 +1,14 @@
+ANIMAL: Sea Lion
+BACKGROUND: tangerine-orange background
+
+FRAME 1:
+A cheerful, vector-style California Sea Lion, centered on a tangerine-orange background. The sea lion is sitting upright, facing forward. Bold black outlines define its shape. It has large, friendly cartoon eyes. Its whiskers are long and prominent. Its front flippers are resting on its belly. The image is a flat color style, with no shading or gradients. Square 1024x1024 pixels.
+
+FRAME 2:
+The same California Sea Lion, centered on a tangerine-orange background, identical style to Frame 1. The sea lion's head and eyes remain in the exact same position as Frame 1. The sea lion is beginning to clap its flippers together in front of it. Its front flippers are slightly raised, nearing each other. Square 1024x1024 pixels.
+
+FRAME 3:
+The same California Sea Lion, centered on a tangerine-orange background, identical style to Frames 1 and 2. The sea lion's head and eyes remain in the exact same position as Frame 1 and 2. The sea lion has fully clapped its front flippers together, creating a "clap". The front flippers are touching each other. Square 1024x1024 pixels.
+
+SOUND:
+California Sea Lion; Barking sound like a dog.

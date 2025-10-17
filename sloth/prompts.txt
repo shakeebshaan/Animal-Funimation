@@ -1,0 +1,14 @@
+ANIMAL: Sloth
+BACKGROUND: bubble-blue background
+
+FRAME 1:
+A full vector illustration of a happy, light brown two-toed sloth with dark brown markings, hanging upside down from a thick, green vine against a solid bubble-blue background. The sloth is smiling with closed eyes and has its arms gently wrapped around the vine. The head is slightly tilted to the right. Bold black outlines define the shapes. Child-friendly, flat colors. Square format.
+
+FRAME 2:
+A full vector illustration of a happy, light brown two-toed sloth with dark brown markings, hanging upside down from a thick, green vine against a solid bubble-blue background. The sloth is smiling with closed eyes. The head is at the same position of frame 1 and is slightly tilted to the right, but is now swinging slightly further to the right, causing a small visible tail shift. Bold black outlines define the shapes. Child-friendly, flat colors. Square format.
+
+FRAME 3:
+A full vector illustration of a happy, light brown two-toed sloth with dark brown markings, hanging upside down from a thick, green vine against a solid bubble-blue background. The sloth is smiling with closed eyes. The head is at the same position of frame 1 and is slightly tilted to the right, but is now swinging at the furthest point of its swing to the right, causing a bigger tail swing in the opposite direction. The arms are now slightly more extended. Bold black outlines define the shapes. Child-friendly, flat colors. Square format.
+
+SOUND:
+Two-toed Sloth, Dog Panting

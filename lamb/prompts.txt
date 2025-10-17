@@ -1,0 +1,13 @@
+ANIMAL: Lamb
+
+FRAME 1 PROMPT:
+Full vector-style illustration of a fluffy white lamb standing on all fours, centered on a 1024x1024 square canvas. Banana-yellow background. The lamb has large, innocent eyes and a small, black nose. Its ears are perked up. The lamb's tail is slightly curved upwards. Bold black outlines. Flat colors. Child-friendly style. No text.
+
+FRAME 2 PROMPT:
+Full vector-style illustration of a fluffy white lamb standing, centered on a 1024x1024 square canvas. Banana-yellow background. The lamb has large, innocent eyes and a small, black nose - in EXACTLY the same position as frame 1. Its head is in the EXACT SAME POSITION as frame 1. One of its front legs is lifted slightly off the ground. The lamb's tail is wagging a little more, curved slightly higher. Bold black outlines. Flat colors. Child-friendly style. No text. The lamb's body outline and size MUST be identical to frame 1.
+
+FRAME 3 PROMPT:
+Full vector-style illustration of a fluffy white lamb standing, centered on a 1024x1024 square canvas. Banana-yellow background. The lamb has large, innocent eyes and a small, black nose - in EXACTLY the same position as frame 1 and frame 2. Its head is in the EXACT SAME POSITION as frame 1 and frame 2. The front leg that was lifted is now extended slightly forward. The lamb's tail is wagging and extended upwards. Bold black outlines. Flat colors. Child-friendly style. No text. The lamb's body outline and size MUST be identical to frame 1 and frame 2.
+
+SOUND PROMPT:
+Short, gentle "baa" sound.

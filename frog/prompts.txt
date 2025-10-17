@@ -1,0 +1,14 @@
+ANIMAL: Frog
+BACKGROUND: watermelon-red background
+
+FRAME 1:
+Full vector illustration of a bright green tree frog, centered on a solid watermelon-red background. The frog is in a playful pose, crouched low with its front legs bent and paws touching the ground, ready to jump. Large, expressive black eyes with white pupils. Thick black outlines. Child-friendly style. 1024x1024 pixels.
+
+FRAME 2:
+Full vector illustration of a bright green tree frog, centered on a solid watermelon-red background. The frog is mid-jump, its front legs extended forward and its back legs propelling it upwards. The HEAD and EYES remain in the EXACT SAME POSITION as Frame 1. Slight blur effect on the legs to indicate motion. Thick black outlines. Child-friendly style. 1024x1024 pixels.
+
+FRAME 3:
+Full vector illustration of a bright green tree frog, centered on a solid watermelon-red background. The frog has landed, front legs absorbing the impact, back legs still slightly bent. The HEAD and EYES remain in the EXACT SAME POSITION as Frame 1 and Frame 2. Slight compression of the frog's body to indicate landing. Thick black outlines. Child-friendly style. 1024x1024 pixels.
+
+SOUND:
+Tree Frog : Bark

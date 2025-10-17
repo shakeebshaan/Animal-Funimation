@@ -1,0 +1,13 @@
+ANIMAL: Guinea Pig
+
+FRAME 1 PROMPT:
+Vector illustration, guinea pig centered on a banana-yellow background, playful pose, sitting upright, short brown fur, large black eyes, pink nose, one ear perked up, the other relaxed down, small paws resting on its belly, short stubby tail angled slightly right, bold black outlines, flat colors, child-friendly style, square 1024x1024 pixels.
+
+FRAME 2 PROMPT:
+Vector illustration, guinea pig centered on a banana-yellow background, playful pose, sitting upright, short brown fur, large black eyes, pink nose, both ears perked up, small paws resting on its belly, short stubby tail angled slightly left, bold black outlines, flat colors, child-friendly style, square 1024x1024 pixels.
+
+FRAME 3 PROMPT:
+Vector illustration, guinea pig centered on a banana-yellow background, playful pose, sitting upright, short brown fur, large black eyes, pink nose, one ear perked up (the one that was down in frame 1), the other relaxed down (the one that was up in frame 1), small paws resting on its belly, short stubby tail wagging upwards, bold black outlines, flat colors, child-friendly style, square 1024x1024 pixels.
+
+SOUND PROMPT:
+Short, high-pitched "wheek" sound.

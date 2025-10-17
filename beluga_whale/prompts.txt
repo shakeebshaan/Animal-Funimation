@@ -1,0 +1,14 @@
+ANIMAL: Beluga Whale
+BACKGROUND: mango-gold background
+
+FRAME 1:
+Vector illustration, 1024x1024, centered, Beluga whale, solid mango-gold background, flat colors, bold black outlines, child-friendly style, mouth slightly open in a smile, body facing forward, tail pointing straight down, pectoral fins extended slightly outward, eyes looking directly at the viewer, joyful expression, no text.
+
+FRAME 2:
+Vector illustration, 1024x1024, centered, Beluga whale, solid mango-gold background, flat colors, bold black outlines, child-friendly style, mouth slightly more open in a smile, body facing forward, tail slightly curved to the right, pectoral fins rotated slightly downwards, eyes looking directly at the viewer (same position as frame 1), joyful expression, no text.
+
+FRAME 3:
+Vector illustration, 1024x1024, centered, Beluga whale, solid mango-gold background, flat colors, bold black outlines, child-friendly style, mouth wide open in a larger smile, body facing forward, tail curved further to the right in a more pronounced arc, pectoral fins pointing downwards, eyes looking directly at the viewer (same position as frame 1), joyful expression, no text.
+
+SOUND:
+Beluga Whale vocalization. Beluga Whale example Animal : Bird

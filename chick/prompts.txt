@@ -1,0 +1,13 @@
+ANIMAL: Chick
+
+FRAME 1 PROMPT:
+Full vector-style illustration, centered, a fluffy, cartoon chick standing upright. The chick is bright yellow with an orange beak and legs. It has large, round black eyes that are wide and innocent. The background is a solid banana-yellow. The chick's wings are tucked against its sides. It's standing on simple green grass. Playful pose: slightly tilted head to the left.
+
+FRAME 2 PROMPT:
+Full vector-style illustration, centered, a fluffy, cartoon chick standing upright. The chick is bright yellow with an orange beak and legs. It has large, round black eyes that are wide and innocent. The background is a solid banana-yellow. The chick is standing on simple green grass. Playful pose: slightly tilted head to the left. Small motion progression from frame 1: The chick’s right wing is now slightly extended outward, as if starting to flap.
+
+FRAME 3 PROMPT:
+Full vector-style illustration, centered, a fluffy, cartoon chick standing upright. The chick is bright yellow with an orange beak and legs. It has large, round black eyes that are wide and innocent. The background is a solid banana-yellow. The chick is standing on simple green grass. Complete the motion from frame 2: The chick’s right wing is now fully extended upward, as if flapping.
+
+SOUND PROMPT:
+Short, high-pitched "cheep" sound.

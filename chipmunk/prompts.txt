@@ -1,0 +1,13 @@
+ANIMAL: Chipmunk
+
+FRAME 1 PROMPT:
+A cheerful cartoon chipmunk, vector style, centered on a square 1024x1024 image with a solid banana-yellow background. The chipmunk is sitting upright, paws resting on its belly, eyes wide and bright. Bold black outlines, flat colors. The chipmunk's tail is slightly curved upwards behind it. No text. The chipmunk's head and eyes are at the horizontal and vertical center point.
+
+FRAME 2 PROMPT:
+A cheerful cartoon chipmunk, vector style, centered on a square 1024x1024 image with a solid banana-yellow background. The chipmunk is sitting upright, right paw lifted slightly towards its mouth, as if about to eat, eyes wide and bright. Bold black outlines, flat colors. The chipmunk's tail is slightly more curved upwards and flicking slightly to the right. No text. The chipmunk's head and eyes are in the exact same position as Frame 1.
+
+FRAME 3 PROMPT:
+A cheerful cartoon chipmunk, vector style, centered on a square 1024x1024 image with a solid banana-yellow background. The chipmunk is sitting upright, right paw touching its mouth, as if eating, eyes wide and bright. Bold black outlines, flat colors. The chipmunk's tail is now fully curled upwards and to the right. No text. The chipmunk's head and eyes are in the exact same position as Frame 1 and Frame 2.
+
+SOUND PROMPT:
+A short, high-pitched "chip!" sound, like a chipmunk squeak.

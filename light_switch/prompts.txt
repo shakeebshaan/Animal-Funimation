@@ -1,0 +1,14 @@
+ANIMAL: Light Switch
+BACKGROUND: bubble-blue background
+
+FRAME 1:
+Full vector illustration, square 1024x1024 pixels, bubble-blue background, a friendly cartoon yellow dog dressed as a light switch, rectangular light switch body, small toggle nose in the DOWN position, big round eyes, playful pose, tail wagging slightly to the left, bold black outlines, flat colors, child-friendly style.
+
+FRAME 2:
+Full vector illustration, square 1024x1024 pixels, bubble-blue background, a friendly cartoon yellow dog dressed as a light switch, rectangular light switch body, small toggle nose moving UP from the DOWN position, big round eyes (same position as frame 1), playful pose, tail wagging now pointing straight up, bold black outlines, flat colors, child-friendly style.
+
+FRAME 3:
+Full vector illustration, square 1024x1024 pixels, bubble-blue background, a friendly cartoon yellow dog dressed as a light switch, rectangular light switch body, small toggle nose in the UP position, big round eyes (same position as frame 1), playful pose, tail wagging slightly to the right, bold black outlines, flat colors, child-friendly style.
+
+SOUND:
+Old fashioned toggle light switch *click-clack* sound.

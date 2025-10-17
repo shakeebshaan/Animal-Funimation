@@ -1,0 +1,14 @@
+ANIMAL: Kookaburra
+BACKGROUND: peach-orange background
+
+FRAME 1:
+Full vector illustration of a laughing Kookaburra perched on a stylized green branch. Solid peach-orange background. The Kookaburra is facing forward, with its head upright and a wide, open beak in a joyful "laugh". The Kookaburra has simple, flat colors: white chest, brown back, blue wings, and dark brown eye markings. Bold, black outlines define the shapes. Its tail is slightly angled down. The image is 1024x1024 pixels. Head and eyes are fixed points.
+
+FRAME 2:
+Full vector illustration of the same laughing Kookaburra perched on the same stylized green branch, same solid peach-orange background. The Kookaburra maintains the same head position and facial expression as in Frame 1. However, its tail is now angled upwards slightly compared to Frame 1, as if it is just starting to raise its tail. A slight twist in the body to the right, not the head. The wing closest to the viewer is starting to move slightly upwards, barely a centimeter of movement. All other elements remain identical to Frame 1. Bold, black outlines define the shapes. The image is 1024x1024 pixels. Head and eyes are fixed points.
+
+FRAME 3:
+Full vector illustration of the same laughing Kookaburra perched on the same stylized green branch, same solid peach-orange background. The Kookaburra maintains the same head position and facial expression as in Frames 1 and 2. Its tail is now angled upwards significantly. The wing closest to the viewer is raised further up, indicating it is flapping its wings to take flight. A larger twist in the body to the right, not the head. All other elements remain identical to Frame 1. Bold, black outlines define the shapes. The image is 1024x1024 pixels. Head and eyes are fixed points.
+
+SOUND:
+Laughing Kookaburra. Animal: Dog. Example: Bark.

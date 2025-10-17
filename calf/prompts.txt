@@ -1,0 +1,14 @@
+ANIMAL: Calf
+BACKGROUND: cherry-pink background
+
+FRAME 1 PROMPT:
+Full vector-style illustration of a cute brown and white calf standing in a playful pose, centered. The calf is facing forward with all four legs on the ground. Its tail is slightly curved upwards. Large, expressive eyes look directly at the viewer. Solid cherry-pink background. Bold black outlines, flat colors, child-friendly style. 1024x1024 pixels.
+
+FRAME 2 PROMPT:
+Full vector-style illustration of the same calf, centered, with a slight motion progression from Frame 1. The calf's tail is now wagging slightly higher and more curved than in Frame 1. The calf's HEAD and EYES must remain in the EXACT SAME POSITION as Frame 1. Solid cherry-pink background. Bold black outlines, flat colors, child-friendly style. 1024x1024 pixels.
+
+FRAME 3 PROMPT:
+Full vector-style illustration of the same calf, centered, completing the tail wag motion. The calf's tail is at its highest point, wagging upwards. The calf's HEAD and EYES must remain in the EXACT SAME POSITION as Frame 1 and Frame 2. Solid cherry-pink background. Bold black outlines, flat colors, child-friendly style. 1024x1024 pixels.
+
+SOUND PROMPT:
+Gentle "Moo" followed by a playful calf "bleat".

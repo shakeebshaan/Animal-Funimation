@@ -1,0 +1,14 @@
+ANIMAL: Fawn
+BACKGROUND: sky-mist-blue background
+
+FRAME 1 PROMPT:
+Full vector illustration of a fawn standing in a playful pose, centered in a 1024x1024 canvas. Fawn has large, innocent eyes and is slightly smiling. Its body is light brown with white spots, large ears, and a small white tail. Bold black outlines define all shapes. Background is a solid, flat sky-mist-blue. Eyes are looking directly at the viewer. Ears are slightly back. Fawn's front two legs are straight and supporting its weight.
+
+FRAME 2 PROMPT:
+Full vector illustration of a fawn standing, almost identical to frame 1, centered in a 1024x1024 canvas. Fawn has large, innocent eyes and is slightly smiling. Its body is light brown with white spots, large ears, and a small white tail. Bold black outlines define all shapes. Background is a solid, flat sky-mist-blue. Eyes are looking directly at the viewer. The fawn's tail is wagging slightly to its left. The Fawn's left ear is now perked slightly forward, right ear is back. The front right leg is now lifted slightly off the ground.
+
+FRAME 3 PROMPT:
+Full vector illustration of a fawn standing, almost identical to frame 1, centered in a 1024x1024 canvas. Fawn has large, innocent eyes and is slightly smiling. Its body is light brown with white spots, large ears, and a small white tail. Bold black outlines define all shapes. Background is a solid, flat sky-mist-blue. Eyes are looking directly at the viewer. The fawn's tail is wagging slightly to its right. The Fawn's right ear is now perked slightly forward, left ear is back. The front right leg is now placed back on the ground, supporting its weight, but is further forward than the left front leg.
+
+SOUND PROMPT:
+Gentle chime sound, like wind chimes, with a soft "bleat" sound effect.

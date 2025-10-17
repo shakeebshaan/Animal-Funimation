@@ -1,0 +1,66 @@
+/* Fullscreen mobile app styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    background-color: black;
+}
+
+#animal-display {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-size: cover; /* for potential future background images, but using solid color for now */
+}
+
+#animal-image {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* maintain aspect ratio */
+    transition: opacity 0.2s ease; /* for animation fade in */
+    clip-path: inset(2%);
+}
+
+#control-left {
+    position: absolute;
+    left: 0;
+    top: 0;
+    width: 5%;
+    height: 100%;
+    background-color: yellow;
+    opacity: 0.3; /* semi-transparent for visibility */
+    cursor: pointer;
+}
+
+#control-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 5%;
+    height: 100%;
+    background-color: red;
+    opacity: 0.3; /* semi-transparent for visibility */
+    cursor: pointer;
+}
+
+#mode-toggle {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 8px 12px;
+    font-size: 14px;
+    background-color: rgba(255, 255, 255, 0.8);
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}

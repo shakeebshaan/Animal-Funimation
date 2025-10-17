@@ -1,0 +1,14 @@
+ANIMAL: Panda
+BACKGROUND: cotton-candy-pink background
+
+FRAME 1 PROMPT:
+Vector illustration of a panda sitting upright and facing forward, centered on a solid cotton-candy-pink background. Panda has large, round eyes, and is smiling slightly. The panda's left arm is resting on its lap, and its right arm is slightly raised as if waving. Flat colors, bold black outlines, child-friendly style, 1024x1024 pixels. Head and eyes fixed in place.
+
+FRAME 2 PROMPT:
+Vector illustration of a panda sitting upright and facing forward, centered on a solid cotton-candy-pink background. Panda has large, round eyes, and is smiling slightly. The panda's left arm is resting on its lap, and its right arm is slightly higher than in Frame 1, as if continuing to wave. Flat colors, bold black outlines, child-friendly style, 1024x1024 pixels. Head and eyes fixed in place.
+
+FRAME 3 PROMPT:
+Vector illustration of a panda sitting upright and facing forward, centered on a solid cotton-candy-pink background. Panda has large, round eyes, and is smiling slightly. The panda's left arm is resting on its lap, and its right arm is fully raised above its head, waving enthusiastically. Flat colors, bold black outlines, child-friendly style, 1024x1024 pixels. Head and eyes fixed in place.
+
+SOUND PROMPT:
+Soft, gentle "boop" sound, like a friendly greeting.

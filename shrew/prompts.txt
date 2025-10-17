@@ -1,0 +1,14 @@
+ANIMAL: Shrew
+BACKGROUND: mint-green background
+
+FRAME 1:
+Vector illustration of a Eurasian Water Shrew standing upright on its hind legs, looking directly at the viewer. It is on a solid mint-green background. The shrew's nose is facing directly towards the viewer. Its front paws are held slightly away from its body, palms facing each other. Bold black outlines, flat colors, child-friendly style. Image is square 1024x1024 pixels.
+
+FRAME 2:
+Vector illustration of a Eurasian Water Shrew, same position and style as Frame 1, but its front paws are now slightly closer together, as if about to clap. The tail is angled a bit more to the right. It is on a solid mint-green background. Bold black outlines, flat colors, child-friendly style. The shrew's nose is facing directly towards the viewer. Eyes and head position remain locked. Image is square 1024x1024 pixels.
+
+FRAME 3:
+Vector illustration of a Eurasian Water Shrew clapping its front paws together in front of its chest. Same style as Frame 1 and 2, on a solid mint-green background. Its tail has swung further to the right. Bold black outlines, flat colors, child-friendly style. The shrew's nose is facing directly towards the viewer. Eyes and head position remain locked. Image is square 1024x1024 pixels.
+
+SOUND:
+Eurasian Water Shrew, Bark

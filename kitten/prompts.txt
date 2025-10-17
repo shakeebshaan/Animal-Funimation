@@ -1,0 +1,13 @@
+ANIMAL: Kitten
+
+FRAME 1 PROMPT:
+A cartoon kitten sitting upright, looking directly forward, paws resting on the ground, short tail slightly curved upwards. Vector illustration, flat colors, bold black outlines, child-friendly style, banana-yellow background, square 1024x1024 pixels. Head and eyes must remain in place across all frames.
+
+FRAME 2 PROMPT:
+A cartoon kitten sitting upright, looking directly forward, paws resting on the ground, tail wagging to the right. Vector illustration, flat colors, bold black outlines, child-friendly style, banana-yellow background, square 1024x1024 pixels. Head and eyes must remain in place across all frames.
+
+FRAME 3 PROMPT:
+A cartoon kitten sitting upright, looking directly forward, paws resting on the ground, tail wagging to the left. Vector illustration, flat colors, bold black outlines, child-friendly style, banana-yellow background, square 1024x1024 pixels. Head and eyes must remain in place across all frames.
+
+SOUND PROMPT:
+Short "Meow" sound effect.

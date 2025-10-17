@@ -1,0 +1,14 @@
+ANIMAL: Canary
+BACKGROUND: aqua-blue background
+
+FRAME 1:
+A brightly colored canary, vector illustration, centered in a 1024x1024 square image. Aqua-blue solid background. The canary is perched on a simple, thin, brown branch. It's looking slightly to the right. Canary's body is yellow with a bright orange cheek patch. Black, bold outlines. Child-friendly style, flat colors. The tail feathers are pointing slightly down.
+
+FRAME 2:
+Vector illustration of the same canary as FRAME1, same style, background, and composition. The canary is beginning to puff out its chest slightly. The tail feathers are now horizontal, and the wing furthest from the viewer is slightly raised. Eyes and head position are identical to FRAME1.
+
+FRAME 3:
+Vector illustration of the same canary as FRAME1 and FRAME2, same style, background, and composition. The canary's chest is fully puffed out. The tail feathers are now angled slightly upwards. The wing furthest from the viewer is fully extended upward, suggesting pre-flight. Eyes and head position are identical to FRAME1 and FRAME2.
+
+SOUND:
+Roller Canary; A high pitched, rolling trill.

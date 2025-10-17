@@ -1,0 +1,14 @@
+ANIMAL: Stoat
+BACKGROUND: lime-green background
+
+FRAME 1:
+Vector illustration of a cartoon stoat, centered, playful pose with front paws slightly raised, hind legs planted, tail curved upward, solid lime-green background, 1024x1024 pixels, flat colors, bold black outlines, child-friendly style. Head centered. Eyes focused forward.
+
+FRAME 2:
+Vector illustration of a cartoon stoat, centered, slightly more raised in a playful bounce, front paws higher, hind legs still planted, tail now curled tighter upward, solid lime-green background, 1024x1024 pixels, flat colors, bold black outlines, child-friendly style. Head centered and position EXACTLY the same as FRAME1. Eyes focused forward and position EXACTLY the same as FRAME1.
+
+FRAME 3:
+Vector illustration of a cartoon stoat, centered, fully bounced, front paws highest, hind legs now slightly off the ground, tail now a tight curl pointing upward, solid lime-green background, 1024x1024 pixels, flat colors, bold black outlines, child-friendly style. Head centered and position EXACTLY the same as FRAME1. Eyes focused forward and position EXACTLY the same as FRAME1.
+
+SOUND:
+Stoat, example animal: small dog yip.

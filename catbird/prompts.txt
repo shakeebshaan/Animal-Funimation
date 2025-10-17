@@ -1,0 +1,14 @@
+ANIMAL: Catbird
+BACKGROUND: lime-green background
+
+FRAME 1:
+A stylized, vector illustration of a Gray Catbird perched on a thick, horizontal branch. Solid lime-green background. The Catbird is facing forward, body angled slightly to the left. It has a gray body, black cap, and a long, slightly downward-curving tail. Head is straight, looking forward. Its wings are neatly folded against its body. The beak is closed. The branch is brown and simple. Square format, 1024x1024 pixels, child-friendly style with bold outlines and flat colors. Head and eyes must be at pixel location X=512, Y=400.
+
+FRAME 2:
+A stylized, vector illustration of a Gray Catbird perched on a thick, horizontal branch. Solid lime-green background. The Catbird is facing forward, body angled slightly to the left, matching position of the head and eyes in frame 1 exactly. The tail is now slightly raised, perhaps 10 degrees higher than in Frame 1. The Catbird's beak is now slightly open, as if starting to chirp. The wings remain neatly folded. The branch is brown and simple. Square format, 1024x1024 pixels, child-friendly style with bold outlines and flat colors. Head and eyes must be at pixel location X=512, Y=400.
+
+FRAME 3:
+A stylized, vector illustration of a Gray Catbird perched on a thick, horizontal branch. Solid lime-green background. The Catbird is facing forward, body angled slightly to the left, matching position of the head and eyes in frame 1 and 2 exactly. The tail is now raised much higher, at almost a 45-degree angle relative to its body. The Catbird's beak is wide open, as if chirping loudly. The wings remain neatly folded. The branch is brown and simple. Square format, 1024x1024 pixels, child-friendly style with bold outlines and flat colors. Head and eyes must be at pixel location X=512, Y=400.
+
+SOUND:
+Catbird mimicking sound effect, Animal : Dog, Dog : "Woof Woof".

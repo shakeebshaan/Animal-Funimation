@@ -1,0 +1,14 @@
+ANIMAL: Clock
+BACKGROUND: cloud-white background
+
+FRAME 1:
+Vector illustration of a cartoon Cuckoo Clock shaped like a golden retriever dog, centered on a solid cloud-white background. The clock face is visible on the dog's chest, showing the time at 12:00. The dog clock has floppy ears, a wagging tail, and a small door above the clock face. Everything is in a flat color style with bold black outlines. The dog is standing perfectly still. The head and eyes must remain locked in place in subsequent frames. Image is 1024x1024 pixels.
+
+FRAME 2:
+Vector illustration of the same golden retriever dog Cuckoo Clock from FRAME1, centered on a solid cloud-white background. The clock face shows 12:00. The dog's tail wags slightly to the right. The small door above the clock face is beginning to open. Everything is in a flat color style with bold black outlines. The dog clock's ears remain in the same position. The dog's head and eyes are in the EXACT SAME position as FRAME1. Image is 1024x1024 pixels.
+
+FRAME 3:
+Vector illustration of the same golden retriever dog Cuckoo Clock from FRAME1 and FRAME2, centered on a solid cloud-white background. The clock face shows 12:00. The dog's tail is fully wagged to the right. A small cartoon cuckoo bird, colored bright blue with yellow accents, pops out of the now fully open door above the clock face. Everything is in a flat color style with bold black outlines. The dog's head and eyes are in the EXACT SAME position as FRAME1 and FRAME2. Image is 1024x1024 pixels.
+
+SOUND:
+Cuckoo Clock, Dog Bark

@@ -1,0 +1,14 @@
+ANIMAL: Warbler
+BACKGROUND: apple-red background
+
+FRAME 1:
+A vector illustration of a Yellow Warbler perched on a thick, stylized branch. The bird is facing slightly to the right, with its head and eyes positioned precisely at the center of the 1024x1024 pixel frame. The bird's wings are neatly folded against its body. The background is a solid, flat apple-red color. The branch is light brown with simple leaf shapes. Flat colors and bold black outlines are used throughout. The bird is in a playful pose, perhaps tilting its head slightly inquisitively. Child-friendly style, no text.
+
+FRAME 2:
+A vector illustration of the same Yellow Warbler as in Frame 1, perched on the same branch against the same solid apple-red background. The bird's HEAD and EYES are in the EXACT SAME POSITION as in Frame 1. The bird has slightly raised its wings, as if preparing to take flight. The tail feathers have fanned out a little more. The pose and style are consistent with Frame 1. Flat colors and bold black outlines are used throughout. Child-friendly style, no text.
+
+FRAME 3:
+A vector illustration of the same Yellow Warbler now taking flight from the same branch against the same solid apple-red background. The bird's HEAD and EYES are in the EXACT SAME POSITION as in Frame 1 and Frame 2. The wings are now fully extended upwards in a flapping motion. The tail feathers are fully fanned out. The branch is slightly bouncing under the takeoff. The pose and style are consistent with Frame 1 and 2. Flat colors and bold black outlines are used throughout. Child-friendly style, no text.
+
+SOUND:
+Yellow Warbler, Chirp

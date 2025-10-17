@@ -1,0 +1,14 @@
+ANIMAL: Binturong
+BACKGROUND: bubble-blue background
+
+FRAME 1:
+A vector-style illustration of a Binturong standing on all fours. The Binturong has a happy expression. The background is a solid bubble-blue color. The Binturong's head is centered. Flat colors and bold outlines, child-friendly style. Square 1024x1024 pixels.
+
+FRAME 2:
+A vector-style illustration of the same Binturong, maintaining the same head position as frame 1. The Binturong's tail is now slightly raised. The Binturong is still standing on all fours but has shifted its weight slightly forward. The background is a solid bubble-blue color. Flat colors and bold outlines, child-friendly style. Square 1024x1024 pixels.
+
+FRAME 3:
+A vector-style illustration of the same Binturong, maintaining the same head position as frame 1 and 2. The Binturong's tail is now fully curled over its back. The Binturong is further leaned forward, appearing ready to take a step. The background is a solid bubble-blue color. Flat colors and bold outlines, child-friendly style. Square 1024x1024 pixels.
+
+SOUND:
+Bearcat Growl

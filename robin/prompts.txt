@@ -1,0 +1,14 @@
+ANIMAL: Robin
+BACKGROUND: lemon-cream background
+
+FRAME 1:
+Full vector illustration of a cartoon American Robin perched on a stylized, thick green branch. The Robin has a bright red breast, dark brown head and wings, a yellow beak, and white eye rings. The bird is looking directly forward with a cheerful expression. Its wings are neatly folded at its sides. Its tail is angled downwards at 45 degrees. Background is a solid, flat lemon-cream color. Bold black outlines define all shapes. Style is simple, child-friendly, and uses flat, vibrant colors. Image is square, 1024x1024 pixels. The Robin is centered in the frame.
+
+FRAME 2:
+Full vector illustration of a cartoon American Robin on a stylized, thick green branch, same style as frame 1. The Robin's head and eye position are identical to frame 1. The robin's wings are now slightly outstretched to the sides, as if preparing to take flight. The tail is angled downwards at 30 degrees. Red breast, dark brown head and wings, yellow beak, white eye rings. Cheerful expression. Solid, flat lemon-cream background. Bold black outlines. Square, 1024x1024 pixels. The Robin is centered in the frame.
+
+FRAME 3:
+Full vector illustration of a cartoon American Robin on a stylized, thick green branch, same style as frames 1 and 2. The Robin's head and eye position are identical to frame 1. The Robin is now mid-flight, with wings fully extended upwards. The tail is angled upwards at 15 degrees. Red breast, dark brown head and wings, yellow beak, white eye rings. Cheerful expression. Solid, flat lemon-cream background. Bold black outlines. Square, 1024x1024 pixels. The Robin is centered in the frame, but its body has lifted slightly upwards off the branch.
+
+SOUND:
+American Robin, chirp

@@ -1,0 +1,14 @@
+ANIMAL: Goat
+BACKGROUND: cloud-white background
+
+FRAME 1:
+Full vector illustration of a baby Nigerian Dwarf Goat, centered on a 1024x1024 pixel square, solid cloud-white background. The goat is standing playfully on its hind legs, front hooves slightly raised, head held high and alert. Its short, floppy ears are relaxed, and its small tail is still. Style: flat colors, bold black outlines, child-friendly style. Anchor the goat's head and eyes in place.
+
+FRAME 2:
+Vector illustration of the same baby Nigerian Dwarf Goat as FRAME1, same cloud-white background, centered, 1024x1024 pixels. The goat is now mid-jump; front hooves are further raised, and its body has rotated slightly forward from the hip, as if in motion. Its floppy ears are now slightly lifted from the motion. The tail is now angled upwards to assist the motion. Style: flat colors, bold black outlines, child-friendly style. Keep head and eyes in the exact same position as frame 1.
+
+FRAME 3:
+Vector illustration of the same baby Nigerian Dwarf Goat as FRAME1 and FRAME2, same cloud-white background, centered, 1024x1024 pixels. The goat has landed on all fours; it has descended into a neutral relaxed stance. Its floppy ears are now relaxed. The tail has returned to the relaxed downwards pose. Style: flat colors, bold black outlines, child-friendly style. Keep head and eyes in the exact same position as frame 1 and frame 2.
+
+SOUND:
+Nigerian Dwarf Goat - a quick, high-pitched "Baa!"

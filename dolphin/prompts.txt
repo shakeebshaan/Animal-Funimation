@@ -1,0 +1,14 @@
+ANIMAL: Dolphin
+BACKGROUND: dreamy-blue background
+
+FRAME 1 PROMPT:
+Full vector illustration of a cartoon dolphin, centered. The dolphin is facing left, arched slightly upward, as if mid-jump. Solid dreamy-blue background. Child-friendly style, flat colors, bold black outlines. Eyes looking forward. Fins straight. Tail straight. No text. Square 1024x1024 pixels. Head and eye position are critical for smooth animation across frames.
+
+FRAME 2 PROMPT:
+Full vector illustration of a cartoon dolphin, centered, matching style of frame 1. The dolphin is facing left, arched slightly upward. Solid dreamy-blue background. Child-friendly style, flat colors, bold black outlines. Eyes looking forward (same position as frame 1). Fins tilted slightly backward. Tail tilted slightly upward. No text. Square 1024x1024 pixels. Head and eye position MUST MATCH frame 1.
+
+FRAME 3 PROMPT:
+Full vector illustration of a cartoon dolphin, centered, matching style of frame 1 and 2. The dolphin is facing left, arched slightly upward. Solid dreamy-blue background. Child-friendly style, flat colors, bold black outlines. Eyes looking forward (same position as frame 1 & 2). Fins tilted further backward. Tail tilted sharply downward. No text. Square 1024x1024 pixels. Head and eye position MUST MATCH frame 1 and 2.
+
+SOUND PROMPT:
+Short, high-pitched dolphin click and whistle.

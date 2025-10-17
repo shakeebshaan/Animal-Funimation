@@ -1,0 +1,14 @@
+ANIMAL: Red Panda
+BACKGROUND: raspberry-pink background
+
+FRAME 1 PROMPT:
+Vector illustration of a red panda standing on its hind legs on a solid raspberry-pink background. The red panda is smiling with cartoonishly large eyes. It has a bushy tail held upwards and curled slightly forward over its back. The red panda's arms are slightly outstretched to the sides. The illustration style is flat colors, bold outlines, and child-friendly. Square format 1024x1024 pixels. Head is centered.
+
+FRAME 2 PROMPT:
+Vector illustration of a red panda on a solid raspberry-pink background. The red panda is smiling with cartoonishly large eyes, identical head and eye position to Frame 1. The bushy tail is now wagging slightly further to the right and upward. The red panda's right paw is lifted slightly off the ground, only a small motion from the first frame, same position of head and eyes as Frame 1. The illustration style is flat colors, bold outlines, and child-friendly. Square format 1024x1024 pixels. Head is centered.
+
+FRAME 3 PROMPT:
+Vector illustration of a red panda on a solid raspberry-pink background. The red panda is smiling with cartoonishly large eyes, identical head and eye position to Frames 1 and 2. The bushy tail is now pointing downward and slightly to the left. The red panda's right paw is now further lifted and in front of it, completing the walking motion. The illustration style is flat colors, bold outlines, and child-friendly. Square format 1024x1024 pixels. Head is centered.
+
+SOUND PROMPT:
+Gentle playful chuffing sounds.

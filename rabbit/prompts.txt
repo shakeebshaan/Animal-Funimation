@@ -1,0 +1,13 @@
+ANIMAL: Rabbit
+
+FRAME 1 PROMPT:
+Full vector-style illustration of a cute white rabbit standing on its hind legs, paws slightly raised, centered on a square 1024x1024 banana-yellow background. Bold black outlines, flat colors. Child-friendly style. Rabbit's head and eyes are looking directly at the viewer.
+
+FRAME 2 PROMPT:
+Full vector-style illustration of a cute white rabbit, identical to Frame 1, except the rabbit's right paw is now slightly higher, as if starting to wave. The head and eyes must remain in the exact same position as Frame 1. Centered on a square 1024x1024 banana-yellow background. Bold black outlines, flat colors. Child-friendly style.
+
+FRAME 3 PROMPT:
+Full vector-style illustration of a cute white rabbit, identical to Frame 2, except the rabbit's right paw is at its highest point, clearly waving. The head and eyes must remain in the exact same position as Frames 1 and 2. Centered on a square 1024x1024 banana-yellow background. Bold black outlines, flat colors. Child-friendly style.
+
+SOUND PROMPT:
+Gentle "boing" sound.

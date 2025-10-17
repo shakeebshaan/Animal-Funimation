@@ -1,0 +1,14 @@
+ANIMAL: Opossum
+BACKGROUND: bubblegum-pink background
+
+FRAME 1:
+Full vector illustration, square 1024x1024 pixels, centered opossum with big cartoon eyes and a small pink nose, solid bubblegum-pink background. The opossum is standing on its hind legs, arms slightly raised, looking curious. Flat colors, bold black outlines, child-friendly style. Head is centered and still.
+
+FRAME 2:
+Full vector illustration, square 1024x1024 pixels, centered opossum, same style and background as frame 1. The opossum has lowered its arms slightly, as if starting to reach for something. Tail is slightly more curved upwards. Head remains in EXACT same position as frame 1.
+
+FRAME 3:
+Full vector illustration, square 1024x1024 pixels, centered opossum, same style and background as frame 1. The opossum has both arms extended forward, fingers spread slightly, as if reaching for a treat. Tail is now fully curled upwards. Head remains in EXACT same position as frame 1. Body has leaned slightly forward, but head remains still.
+
+SOUND:
+Virginia Opossum :: Bark

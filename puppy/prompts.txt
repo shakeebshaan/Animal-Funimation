@@ -1,0 +1,13 @@
+ANIMAL: Puppy
+
+FRAME 1 PROMPT:
+A cartoon puppy sitting upright, vector illustration style, bold black outlines, flat colors, white chest patch, brown fur, floppy ears, tail straight down, front paws resting on the ground, centered on a 1024x1024 pixel square banana-yellow background. Eyes wide and happy, head perfectly still.
+
+FRAME 2 PROMPT:
+A cartoon puppy sitting upright, vector illustration style, bold black outlines, flat colors, white chest patch, brown fur, floppy ears slightly lifted up, tail wagging slightly to the left, front paws resting on the ground, centered on a 1024x1024 pixel square banana-yellow background. Eyes wide and happy, head perfectly still.
+
+FRAME 3 PROMPT:
+A cartoon puppy sitting upright, vector illustration style, bold black outlines, flat colors, white chest patch, brown fur, floppy ears fully perked up, tail wagging further to the left, front paws resting on the ground, centered on a 1024x1024 pixel square banana-yellow background. Eyes wide and happy, head perfectly still.
+
+SOUND PROMPT:
+Short, happy puppy "Woof!"

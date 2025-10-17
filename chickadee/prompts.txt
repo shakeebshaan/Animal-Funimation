@@ -1,0 +1,14 @@
+ANIMAL: Chickadee
+BACKGROUND: lavender-lilac background
+
+FRAME 1:
+Full vector-style illustration of a Black-capped Chickadee perched on a slender brown branch. The branch is positioned horizontally across the lower third of the square frame. The Chickadee faces right, wings folded neatly, and has a curious, friendly expression. Its head is tilted slightly forward. The background is solid lavender-lilac. 1024x1024 pixels, child-friendly style, flat colors, bold black outlines. No text.
+
+FRAME 2:
+Full vector-style illustration of a Black-capped Chickadee on the same slender brown branch, matching position as FRAME1. The Chickadee's head and eyes remain in the EXACT same position as FRAME1. Only the Chickadee's tail feathers are slightly fanned out and its body rotates very slightly to the right as if beginning to hop upwards. Background remains solid lavender-lilac. 1024x1024 pixels, child-friendly style, flat colors, bold black outlines. No text.
+
+FRAME 3:
+Full vector-style illustration of a Black-capped Chickadee leaping off the same slender brown branch. The Chickadee's head and eyes remain in the EXACT same position as FRAME1 and FRAME2. The branch remains in the same position. The Chickadee's wings are now spread, angled upwards. Its tail feathers are fully fanned, and its legs are dangling below, as if it has just launched into flight. Background remains solid lavender-lilac. 1024x1024 pixels, child-friendly style, flat colors, bold black outlines. No text.
+
+SOUND:
+Black-capped Chickadee, chick-a-dee-dee-dee call. Dog bark sample.

@@ -1,0 +1,14 @@
+ANIMAL: Ferret
+BACKGROUND: butter-yellow background
+
+FRAME 1:
+Vector illustration of a ferret standing upright on its hind legs, front paws held up in a begging pose, head centered, cheerful expression, bright button eyes, playful and child-friendly style, flat colors, bold black outlines, solid butter-yellow background, square 1024x1024 pixels.
+
+FRAME 2:
+Vector illustration of the same ferret, maintaining the same centered head position and eye placement as FRAME1, now with its front paws slightly lowered as if starting to tumble forward, tail arching upwards a little more, otherwise identical style to FRAME1, solid butter-yellow background, square 1024x1024 pixels.
+
+FRAME 3:
+Vector illustration of the same ferret, centered head position and eye placement unchanged, now tumbling forward onto its front paws in a playful somersault, tail almost pointing straight up, arched back, same flat colors and bold outlines, solid butter-yellow background, cheerful expression, square 1024x1024 pixels.
+
+SOUND:
+Slinky toy sound effect. Ferret Animal : Slinky.

@@ -1,0 +1,14 @@
+ANIMAL: Goldfinch
+BACKGROUND: cherry-pink background
+
+FRAME 1:
+Vector illustration of a Goldfinch perched on a stylized dandelion head. Centered composition, square 1024x1024. Solid cherry-pink background. Goldfinch facing forward, slight head tilt, wings folded neatly at sides, tail pointing downwards. Child-friendly style, flat colors, bold outlines. Dandelion head is large and prominent, fluffy seeds attached. Focus on clear, simple shapes and vibrant colors. Eyes are black dots.
+
+FRAME 2:
+Vector illustration of the same Goldfinch and dandelion head. Centered composition, square 1024x1024, solid cherry-pink background. Goldfinch slightly leans forward, wings now slightly extended outwards from body. Tail feathers are now fanned out behind and slightly up from frame 1. Head remains in the EXACT SAME POSITION as frame 1. Child-friendly style, flat colors, bold outlines. Dandelion seeds remain static.
+
+FRAME 3:
+Vector illustration of the same Goldfinch and dandelion head. Centered composition, square 1024x1024, solid cherry-pink background. Goldfinch is now beginning to take flight, wings extended further outwards, almost fully open, and angled upwards. The Goldfinch's body is angled upwards more significantly than in frame 2. Tail feathers are fanned out further than frame 2. Head remains in the EXACT SAME POSITION as frames 1 and 2. Child-friendly style, flat colors, bold outlines. Dandelion seeds remain static.
+
+SOUND:
+American Goldfinch chirp and wing flapping.

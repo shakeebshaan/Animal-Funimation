@@ -1,0 +1,14 @@
+ANIMAL: Manx Shearwater
+BACKGROUND: tangerine-orange background
+
+FRAME 1:
+A full vector-style illustration of a Manx Shearwater in flight, centered on a 1024x1024 pixel square canvas. The background is a solid tangerine-orange. The Manx Shearwater is depicted with flat colors and bold black outlines in a child-friendly style. Its wings are slightly angled downwards. The bird's head is facing directly forward.
+
+FRAME 2:
+A full vector-style illustration of the same Manx Shearwater from Frame 1, maintaining the tangerine-orange background and 1024x1024 pixel size. The head position remains identical to Frame 1. The Manx Shearwater's wings are now level, indicating an upward beat. The body has a slight upward tilt from the center point.
+
+FRAME 3:
+A full vector-style illustration completing the motion from Frame 1 and 2. Same tangerine-orange background, 1024x1024 pixel size, flat colors, and bold black outlines. The Manx Shearwater's head position is locked in place as in the previous frames. The wings are now angled slightly upwards. The body has an even further upward tilt suggesting that it is rising upward.
+
+SOUND:
+Manx Shearwater "shear" call and wind rushing sound effect. Animal: Dog

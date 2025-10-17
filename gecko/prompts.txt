@@ -1,0 +1,14 @@
+ANIMAL: Gecko
+BACKGROUND: sky-blue background
+
+FRAME 1:
+Full vector illustration, centered on a 1024x1024 canvas with a solid sky-blue background. A bright green, cartoon gecko stands upright, facing forward with big, friendly eyes. Its head is tilted slightly to the left. It has a small, cute smile. Its tail is curved gently behind it, almost touching its back. Its front legs are slightly bent and held close to its body. Child-friendly style with flat colors and bold black outlines. No text.
+
+FRAME 2:
+Full vector illustration, centered on a 1024x1024 canvas with a solid sky-blue background. A bright green, cartoon gecko stands upright. Its head (including eyes) must be in the EXACT SAME POSITION as frame 1. Its head is tilted slightly to the left. It has a small, cute smile. Its tail has now moved upwards, curving more dramatically and away from its back, as if waving. Its front legs are slightly bent and held further from its body than frame 1, as if beginning to walk. Child-friendly style with flat colors and bold black outlines. No text.
+
+FRAME 3:
+Full vector illustration, centered on a 1024x1024 canvas with a solid sky-blue background. A bright green, cartoon gecko stands upright. Its head (including eyes) must be in the EXACT SAME POSITION as frames 1 and 2. Its head is tilted slightly to the left. It has a small, cute smile. Its tail is now fully upright, forming a near-vertical curve. Its front legs are now fully extended, having taken a small step forward. Child-friendly style with flat colors and bold black outlines. No text.
+
+SOUND:
+Tokay Gecko, Bark

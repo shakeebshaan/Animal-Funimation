@@ -1,0 +1,14 @@
+ANIMAL: Llama
+BACKGROUND: sky-mist-blue background
+
+FRAME 1 PROMPT:
+Full vector illustration of a llama standing cheerfully in a field of short green grass, solid sky-mist-blue background, 1024x1024 pixels, child-friendly style, flat colors, bold outlines. The llama is facing forward, ears perked up, tail slightly raised. Eyes looking directly at the viewer. No text. The head is perfectly centered in the upper half of the image.
+
+FRAME 2 PROMPT:
+Full vector illustration of the same llama from FRAME1, 1024x1024 pixels, child-friendly style, flat colors, bold outlines, solid sky-mist-blue background. Llama's head and eyes are in the EXACT SAME POSITION as FRAME1. The llama is wagging its tail slightly to the left. Its left ear is flicked slightly forward. The head must be in the exact same fixed position as Frame 1.
+
+FRAME 3 PROMPT:
+Full vector illustration of the same llama from FRAME1 and FRAME2, 1024x1024 pixels, child-friendly style, flat colors, bold outlines, solid sky-mist-blue background. Llama's head and eyes are in the EXACT SAME POSITION as FRAME1 and FRAME2. The llama's tail is wagging to the right, completing the wagging motion. Its right ear is flicked slightly forward. The head must be in the exact same fixed position as Frame 1 & 2.
+
+SOUND PROMPT:
+Short, gentle "hummm" sound effect, like a llama call.

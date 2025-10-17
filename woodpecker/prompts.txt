@@ -1,0 +1,16 @@
+ANIMAL: Woodpecker
+BACKGROUND: cherry-pink background
+
+FRAME 1:
+A vector illustration of a cartoon Downy Woodpecker perched horizontally on a thick, brown tree branch. The Woodpecker has bright red head feathers, black and white striped wings, a white chest, and a short, pointed beak. Its head is facing left, looking slightly towards the viewer with a curious expression. The background is solid cherry-pink. The style is child-friendly with flat colors and bold black outlines. The image is square, 1024x1024 pixels, and centered.
+
+FRAME 2:
+A vector illustration of a cartoon Downy Woodpecker on a thick, brown tree branch, mimicking frame 1. The Woodpecker's head and eyes remain in the exact same position as frame 1. The bird's body has rotated slightly upwards, and its tail feathers are now fanned out a little more. Its wings are slightly more raised away from the body. The background is solid cherry-pink. The style is child-friendly with flat colors and bold black outlines. The image is square, 1024x1024 pixels, and centered.
+
+FRAME 3:
+A vector illustration of a cartoon Downy Woodpecker on a thick, brown tree branch, completing its motion. The Woodpecker's head and eyes are in the EXACT SAME PLACE as frames 1 and 2. The bird's body is now rotated upwards significantly. Its tail feathers are fully fanned out, and its wings are fully extended upwards, about to flap. The background is solid cherry-pink. The style is child-friendly with flat colors and bold black outlines. The image is square, 1024x1024 pixels, and centered.
+
+SOUND:
+Downy Woodpecker - Barking
+Animal : Dog
+Dog example - Barking

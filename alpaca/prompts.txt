@@ -1,0 +1,14 @@
+ANIMAL: Alpaca
+BACKGROUND: plum-violet background
+
+FRAME 1 PROMPT:
+Full vector-style illustration of a fluffy white alpaca standing in a playful pose, centered in the frame. The alpaca has large, round black eyes, a small mouth, and a gentle smile. Its ears are perked up, and its tail is hanging down. Background is a solid plum-violet color. Image is 1024x1024 pixels. Child-friendly style with flat colors and bold black outlines.
+
+FRAME 2 PROMPT:
+Full vector-style illustration of a fluffy white alpaca standing, matching position from FRAME 1. The alpaca's head and eyes are in the exact same position as FRAME 1. Only difference: the alpaca's tail is slightly wagging to the right. The alpaca has large, round black eyes, a small mouth, and a gentle smile. Its ears are perked up. Background is a solid plum-violet color. Image is 1024x1024 pixels. Child-friendly style with flat colors and bold black outlines.
+
+FRAME 3 PROMPT:
+Full vector-style illustration of a fluffy white alpaca standing, matching position from FRAME 1. The alpaca's head and eyes are in the exact same position as FRAME 1. Only difference: the alpaca's tail is wagging slightly to the left. The alpaca has large, round black eyes, a small mouth, and a gentle smile. Its ears are perked up. Background is a solid plum-violet color. Image is 1024x1024 pixels. Child-friendly style with flat colors and bold black outlines.
+
+SOUND PROMPT:
+Short, gentle "baa" sound.

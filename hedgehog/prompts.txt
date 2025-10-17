@@ -1,0 +1,14 @@
+ANIMAL: Hedgehog
+BACKGROUND: plum-violet background
+
+FRAME 1:
+Full vector illustration, centered 1024x1024, solid plum-violet background. A stylized cartoon hedgehog stands on its hind legs, arms slightly outstretched as if about to catch something. Head centered and facing forward. Flat colors, bold black outlines. Child-friendly style. Eyes wide and happy.
+
+FRAME 2:
+Full vector illustration, centered 1024x1024, solid plum-violet background. The stylized cartoon hedgehog, consistent with Frame 1, is jumping upwards, maintaining head and eye position from Frame 1. Arms are raised higher, and the body arches slightly backward. Flat colors, bold black outlines. Child-friendly style.
+
+FRAME 3:
+Full vector illustration, centered 1024x1024, solid plum-violet background. The stylized cartoon hedgehog, consistent with Frames 1 and 2, lands back on its feet. Head and eye positions remain locked. The hedgehog's arms are now bent downwards, as if completing a jump landing. Tail is slightly raised. Flat colors, bold black outlines. Child-friendly style.
+
+SOUND:
+"Ouch!" - Hedgehog Example Animal : Cat

@@ -1,0 +1,14 @@
+ANIMAL: Genet
+BACKGROUND: carrot-orange background
+
+FRAME 1:
+Vector-style illustration of a Genet on a solid carrot-orange background. The Genet is standing upright on its hind legs, with its front paws playfully raised as if batting at an unseen object. Its bushy tail is slightly curved. Bold black outlines, flat colors, child-friendly style. Square 1024x1024 pixels. Genet's head facing directly forward. Eyes looking straight ahead.
+
+FRAME 2:
+Vector-style illustration of the same Genet, same background. The Genet's head and eyes remain in the EXACT SAME position as Frame 1. The Genet has shifted its weight slightly, and its tail is now curved a bit more dramatically upwards. Its front paws are now slightly closer together as if it's about to pounce. Bold black outlines, flat colors, child-friendly style. Square 1024x1024 pixels.
+
+FRAME 3:
+Vector-style illustration of the same Genet, same background. The Genet's head and eyes remain in the EXACT SAME position as Frame 1 & 2. The Genet is now leaping forward, its front paws extended. Its tail is fully extended behind it, curved upwards at the tip. Bold black outlines, flat colors, child-friendly style. Square 1024x1024 pixels.
+
+SOUND:
+Common Genet, squeak

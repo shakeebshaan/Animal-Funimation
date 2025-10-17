@@ -1,0 +1,13 @@
+ANIMAL: Piglet
+
+FRAME 1 PROMPT:
+Vector illustration of Piglet from Winnie the Pooh, full body, centered, playful pose with a slight smile, standing on hind legs, front paws slightly raised, small curly tail pointing upwards, large floppy ears, black dot eyes looking forward, pink skin, black outline, no text, banana-yellow solid background, 1024x1024 pixels.
+
+FRAME 2 PROMPT:
+Vector illustration of Piglet from Winnie the Pooh, full body, centered, playful pose with a slight smile, standing on hind legs, front paws slightly more raised than in frame 1, small curly tail wagging slightly to the right, large floppy ears slightly more forward than in frame 1, black dot eyes looking forward, pink skin, black outline, no text, banana-yellow solid background, 1024x1024 pixels. Piglet's head and eyes are in the EXACT SAME POSITION as frame 1.
+
+FRAME 3 PROMPT:
+Vector illustration of Piglet from Winnie the Pooh, full body, centered, playful pose with a slight smile, standing on hind legs, front paws fully raised in a joyful gesture, small curly tail wagging further to the right, large floppy ears slightly more back than in frame 2, black dot eyes looking forward, pink skin, black outline, no text, banana-yellow solid background, 1024x1024 pixels. Piglet's head and eyes are in the EXACT SAME POSITION as frame 1 and frame 2.
+
+SOUND PROMPT:
+Short, happy piglet squeal.

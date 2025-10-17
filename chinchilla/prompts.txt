@@ -1,0 +1,14 @@
+ANIMAL: Chinchilla
+BACKGROUND: seafoam-green background
+
+FRAME 1:
+Vector-style illustration of a cute chinchilla sitting upright on its hind legs, centered against a solid seafoam-green background. The chinchilla has fluffy gray fur, large round black eyes, and small pink ears. It's holding a tiny daisy in its paws. Its tail is slightly curved behind it. Child-friendly style with bold black outlines and flat colors. Square image 1024x1024 pixels.
+
+FRAME 2:
+Vector-style illustration of the same chinchilla, same seafoam-green background. The chinchilla is now slightly leaning forward, still holding the daisy. Its ears are perked up a little higher. The tail has slightly lifted up. Its HEAD and EYES are in the EXACT SAME POSITION as Frame 1. Child-friendly style with bold black outlines and flat colors. Square image 1024x1024 pixels.
+
+FRAME 3:
+Vector-style illustration of the same chinchilla, same seafoam-green background. The chinchilla has completely dropped the daisy and is now reaching out with both paws as if to grab something. Its tail is straight up, almost vertical. Its HEAD and EYES are in the EXACT SAME POSITION as Frames 1 and 2. Child-friendly style with bold black outlines and flat colors. Square image 1024x1024 pixels.
+
+SOUND:
+Domesticated Chinchilla : Bark

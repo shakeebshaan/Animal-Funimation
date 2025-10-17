@@ -1,0 +1,14 @@
+ANIMAL: Turkey
+BACKGROUND: pearl-white background
+
+FRAME 1:
+A vector-style illustration of a cartoon Turkey, facing forward, standing on bright green grass. The turkey is plump and round with a bright red wattle and snood, a black beak, and large, cartoonish, friendly eyes. The tail feathers are spread slightly and colored in shades of orange, yellow, and brown. The turkey's body is primarily brown with a lighter tan chest. The background is a solid pearl-white color. The turkey is in a playful pose, with its left leg slightly raised as if taking a small step. The image is centered, 1024x1024 pixels.
+
+FRAME 2:
+A vector-style illustration of a cartoon Turkey, facing forward, standing on bright green grass. The turkey is plump and round with a bright red wattle and snood, a black beak, and large, cartoonish, friendly eyes. The tail feathers are slightly more spread than in frame 1. The turkey's body is primarily brown with a lighter tan chest, and rotated slightly to the left. The right wing is raised slightly higher than in frame 1. The left leg is now further extended forward, showing more of the foot. The background is a solid pearl-white color. The image is centered, 1024x1024 pixels. The turkey's head and eyes remain in the exact same location as frame 1.
+
+FRAME 3:
+A vector-style illustration of a cartoon Turkey, facing forward, standing on bright green grass. The turkey is plump and round with a bright red wattle and snood, a black beak, and large, cartoonish, friendly eyes. The tail feathers are fully spread and fanned out. The turkey's body is primarily brown with a lighter tan chest, now rotated further to the left. Both wings are raised high above its body, almost flapping. The left leg is planted firmly on the ground. The background is a solid pearl-white color. The image is centered, 1024x1024 pixels. The turkey's head and eyes remain in the exact same location as frames 1 and 2.
+
+SOUND:
+Broad-breasted White Turkey Gobble

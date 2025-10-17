@@ -1,0 +1,14 @@
+ANIMAL: Lovebird
+BACKGROUND: sand-beige background
+
+FRAME 1:
+A vibrant, flat vector-style illustration of a peach-faced Lovebird perched on a simple, stylized branch. The bird is facing slightly to the right, with its head centered in the frame. It has bright pink face, a green body, and short blue tail feathers. Eyes are wide and bright. The background is a solid sand-beige. The bird is tilting its head slightly, a playful pose with wings slightly tucked. The image is square 1024x1024. No text. Bold black outlines. Child-friendly style. Head and eye position locked for animation.
+
+FRAME 2:
+A vibrant, flat vector-style illustration of the same peach-faced Lovebird perched on the same stylized branch, with the same sand-beige background. The bird's head remains in the exact same position as frame 1. The body is rotated very slightly more to the right, with the tail feathers now fanned out a little further than in frame 1. The wings are now slightly more extended, beginning to open. Bold black outlines. Child-friendly style. Image is square 1024x1024. No text. Head and eye position locked for animation.
+
+FRAME 3:
+A vibrant, flat vector-style illustration of the peach-faced Lovebird, identical in style and composition to frames 1 and 2, with a sand-beige background. The bird's head is unmoved from the prior frames. The Lovebird is mid-flap, with wings fully extended upwards, but not outside of the frame, and tail feathers fully fanned out. The body is rotated slightly more to the right as to exaggerate the motion. Bold black outlines. Child-friendly style. Image is square 1024x1024. No text. Head and eye position locked for animation.
+
+SOUND:
+Peach-faced Lovebird chirping, similar in tone and cadence to a Yorkshire Terrier barking.

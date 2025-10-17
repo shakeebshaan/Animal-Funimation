@@ -1,0 +1,13 @@
+ANIMAL: Squirrel
+
+FRAME 1 PROMPT:
+Full vector illustration of a cartoon squirrel centered on a 1024x1024 square, banana-yellow background. The squirrel is bright orange with a fluffy tail, large expressive black eyes that are looking directly forward, and a white belly. It's sitting upright, holding a large acorn in its front paws. The pose is playful and slightly tilted to its left. Bold black outlines define all shapes. Eyes MUST remain fixed in the same position in frames 2 and 3.
+
+FRAME 2 PROMPT:
+Full vector illustration of the same cartoon squirrel, maintaining the same centered composition, 1024x1024 square, and banana-yellow background. The squirrel's head and eyes MUST be in the exact same position as frame 1. The acorn is now slightly higher, as if it's about to take a bite. The squirrel's fluffy tail is slightly more upright than in frame 1, creating a subtle wagging motion. Bold black outlines define all shapes.
+
+FRAME 3 PROMPT:
+Full vector illustration of the same cartoon squirrel, maintaining the same centered composition, 1024x1024 square, and banana-yellow background. The squirrel's head and eyes MUST be in the exact same position as frame 1 and 2. The acorn is now even closer to the squirrel's mouth, as if it has taken a bite. The squirrel's fluffy tail is now at its highest point in the wag, creating a more pronounced motion. Bold black outlines define all shapes.
+
+SOUND PROMPT:
+Short, high-pitched "squeak-squeak" sound, like a happy squirrel chatter.

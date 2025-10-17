@@ -1,0 +1,14 @@
+ANIMAL: Rain
+BACKGROUND: sand-beige background
+
+FRAME 1:
+Vector illustration of a cheerful golden retriever sitting upright on its hind legs, centered. The dog has a happy expression, floppy ears, and a slightly wagging tail. Solid sand-beige background, 1024x1024 pixels, child-friendly style, flat colors, bold black outlines. Head and eyes centered and looking forward.
+
+FRAME 2:
+Vector illustration of the same golden retriever, maintaining the identical pose and composition as frame 1. The dog's tail is now wagging with more enthusiasm, slightly blurred to indicate motion, and its front paws are lifted slightly off the ground, as if anticipating a treat. Solid sand-beige background, 1024x1024 pixels, child-friendly style, flat colors, bold black outlines. The dog's head and eyes must remain in the exact same location as in frame 1.
+
+FRAME 3:
+Vector illustration of the same golden retriever, completing the jump. The dog is now fully airborne, with all four paws off the ground. Its tail is wagging vigorously, significantly blurred, indicating fast motion. Front paws reaching forward, hind paws tucked underneath. Solid sand-beige background, 1024x1024 pixels, child-friendly style, flat colors, bold black outlines. The dog's head and eyes must remain in the exact same location as in frames 1 and 2.
+
+SOUND:
+Light Rain, Dog Shaking Water Off

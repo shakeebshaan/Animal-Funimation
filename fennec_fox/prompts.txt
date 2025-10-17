@@ -1,0 +1,14 @@
+ANIMAL: Fennec Fox
+BACKGROUND: forest-green background
+
+FRAME 1 PROMPT:
+A vector-style illustration of a Fennec Fox sitting upright on its hind legs against a solid forest-green background. The Fennec Fox is looking directly at the viewer with wide, friendly eyes. Its large ears are perked upwards, and its fluffy tail is hanging straight down behind it. Use flat colors and bold outlines for a child-friendly style. Composition centered and consistent across frames, 1024x1024 pixels.
+
+FRAME 2 PROMPT:
+A vector-style illustration of a Fennec Fox, same position and composition as Frame 1, against a solid forest-green background. The Fennec Fox's large ears are now slightly tilted outwards. Its fluffy tail is now wagging slightly to the right. The head and eyes must remain in the exact same position as Frame 1. Use flat colors and bold outlines for a child-friendly style. Composition centered and consistent across frames, 1024x1024 pixels.
+
+FRAME 3 PROMPT:
+A vector-style illustration of a Fennec Fox, same position and composition as Frame 1 and 2, against a solid forest-green background. The Fennec Fox's large ears are now slightly tilted inwards, even closer together. Its fluffy tail is now wagging slightly to the left. The head and eyes must remain in the exact same position as Frame 1 and Frame 2. Use flat colors and bold outlines for a child-friendly style. Composition centered and consistent across frames, 1024x1024 pixels.
+
+SOUND PROMPT:
+A short, high-pitched "yip" or playful bark, typical of a Fennec Fox.

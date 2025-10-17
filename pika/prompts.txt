@@ -1,0 +1,14 @@
+ANIMAL: Pika
+BACKGROUND: lavender-lilac background
+
+FRAME 1:
+Vector illustration of an American Pika sitting upright on its haunches, centered against a solid lavender-lilac background. The Pika is light brown with a cream-colored belly. It's holding a single dandelion in its paws and looking directly at the viewer with wide, friendly eyes. Bold black outlines define its features. Its head is perfectly centered. The image is 1024x1024 pixels.
+
+FRAME 2:
+Vector illustration of the same American Pika, maintaining the same pose, background (lavender-lilac), and style as Frame 1. The Pika is beginning to lift the dandelion towards its mouth. The Pika's HEAD and EYES remain in the EXACT SAME POSITION as Frame 1. Only the paws and the dandelion have moved slightly upward. 1024x1024 pixels.
+
+FRAME 3:
+Vector illustration of the same American Pika, completing the motion of bringing the dandelion to its mouth. The Pika's HEAD and EYES remain in the EXACT SAME POSITION as Frame 1 and Frame 2. It's now nibbling on the dandelion flower. Paws are raised slightly higher. Background remains the same lavender-lilac color, and the style matches the previous frames with bold outlines. 1024x1024 pixels.
+
+SOUND:
+Yap

@@ -1,0 +1,14 @@
+ANIMAL: Wind
+BACKGROUND: sunflower-yellow background
+
+FRAME 1:
+Full vector-style illustration, centered, solid sunflower-yellow background. A light brown beagle puppy is seated, facing forward. Its head is perfectly still. Big, friendly brown eyes are looking directly at the viewer. The puppy's ears are drooping straight down, and its tail is pointing straight down, motionless. Flat colors, bold black outlines, child-friendly style, square 1024x1024 pixels.
+
+FRAME 2:
+Full vector-style illustration, centered, solid sunflower-yellow background. The same light brown beagle puppy, seated, facing forward. Its head and eyes are in the EXACT SAME POSITION as frame 1. The puppy's ears are now slightly lifted, angled outwards a bit from its head, as if catching a breeze. Its tail has swung to the right slightly, but still points downward, indicating the beginning of a wag. Flat colors, bold black outlines, child-friendly style, square 1024x1024 pixels.
+
+FRAME 3:
+Full vector-style illustration, centered, solid sunflower-yellow background. The same light brown beagle puppy, seated, facing forward. Its head and eyes are in the EXACT SAME POSITION as frame 1 and 2. The puppy's ears are fully lifted and perked, angled outwards. Its tail is now wagging enthusiastically to the right, curved upwards slightly, conveying excitement. Flat colors, bold black outlines, child-friendly style, square 1024x1024 pixels.
+
+SOUND:
+Gentle breeze, dog panting

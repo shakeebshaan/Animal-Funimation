@@ -1,0 +1,14 @@
+ANIMAL: Mouse
+BACKGROUND: pumpkin-orange background
+
+FRAME 1:
+Vector illustration of a cute, cartoon brown mouse standing upright on its hind legs, facing forward. The mouse has large, round ears, a long pink tail that curves slightly to the right, and small, black bead eyes. Its front paws are held close to its chest. Bold black outlines define the mouse. Solid pumpkin-orange background. Image is square 1024x1024 pixels.
+
+FRAME 2:
+Vector illustration of the same cute, cartoon brown mouse, maintaining the same head and eye position as FRAME1. The mouse is now slightly leaning forward, with its front paws extended outwards as if reaching for something. The tail curves more upwards. Bold black outlines define the mouse. Solid pumpkin-orange background. Image is square 1024x1024 pixels. Image is square 1024x1024 pixels.
+
+FRAME 3:
+Vector illustration of the same cute, cartoon brown mouse, maintaining the same head and eye position as FRAME1 and FRAME2. The mouse is now further leaning forward, almost touching the ground with its front paws. The tail is pointing straight upwards. Bold black outlines define the mouse. Solid pumpkin-orange background. Image is square 1024x1024 pixels.
+
+SOUND:
+Mouse: Squeaky footsteps and a soft, high-pitched "squeak" sound. Animal : Cat

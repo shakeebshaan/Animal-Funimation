@@ -1,0 +1,14 @@
+ANIMAL: Harvest Mouse
+BACKGROUND: pumpkin-orange background
+
+FRAME 1:
+Vector-style illustration of a Harvest Mouse clinging to a tall, swaying blade of wheat. The mouse's head is perfectly centered, and eyes looking straight ahead. Tail is curled gently downwards. Its tiny pink hands grip the wheat stalk. Background is a solid pumpkin-orange. Bold black outlines. 1024x1024 pixels, square image. Child-friendly.
+
+FRAME 2:
+Vector-style illustration of the same Harvest Mouse on the same wheat stalk, a slight motion from Frame 1. The mouse's HEAD and EYE positions are IDENTICAL to frame 1. The mouse's tail is now curled upwards slightly more. One ear is now slightly more forward. One paw lifting up just slightly, as if to re-adjust grip. Background is solid pumpkin-orange. Bold black outlines. 1024x1024 pixels, square image. Child-friendly.
+
+FRAME 3:
+Vector-style illustration of the same Harvest Mouse almost at the top of the wheat stalk. The mouse's HEAD and EYE positions are IDENTICAL to frames 1 and 2. The mouse's tail is fully extended upwards, almost touching its head. Both ears are now pointed forward. Both paws at the top the stalk. Background is solid pumpkin-orange. Bold black outlines. 1024x1024 pixels, square image. Child-friendly.
+
+SOUND:
+Harvest Mouse Squeak: High-pitched, brief chirping sound, similar to a small dog's puppy bark, but much higher frequency and quieter.

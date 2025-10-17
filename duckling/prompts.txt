@@ -1,0 +1,13 @@
+ANIMAL: Duckling
+
+FRAME 1 PROMPT:
+A single, adorable, cartoon duckling standing facing forward, centered in a 1024x1024 square frame. It is bright yellow with an orange beak and feet. Large, round, friendly black eyes. Vector-style illustration with thick, black outlines and flat colors. Small fluffy tail pointing slightly upwards. Banana-yellow background, solid color, no gradients. Duckling stands on two legs. Playful pose, body slightly angled to the right.
+
+FRAME 2 PROMPT:
+A single, adorable, cartoon duckling standing facing forward, centered in a 1024x1024 square frame. It is bright yellow with an orange beak and feet. Large, round, friendly black eyes. Vector-style illustration with thick, black outlines and flat colors. Small fluffy tail wagging further upwards and slightly to the right. Banana-yellow background, solid color, no gradients. Duckling stands on two legs. Playful pose, body slightly angled to the right, right foot slightly lifted.
+
+FRAME 3 PROMPT:
+A single, adorable, cartoon duckling standing facing forward, centered in a 1024x1024 square frame. It is bright yellow with an orange beak and feet. Large, round, friendly black eyes. Vector-style illustration with thick, black outlines and flat colors. Small fluffy tail wagging even higher, pointed directly upwards. Banana-yellow background, solid color, no gradients. Duckling stands on two legs. Playful pose, body slightly angled to the right, right foot slightly higher, as if taking a step.
+
+SOUND PROMPT:
+A short, high-pitched "peep" sound, like a duckling.

@@ -1,0 +1,14 @@
+ANIMAL: Pomeranian
+BACKGROUND: sunflower-yellow background
+
+FRAME 1:
+Vector illustration, 1024x1024 pixels, centered Pomeranian dog sitting, sunflower-yellow background, flat colors, bold black outlines, child-friendly style. Pomeranian is facing forward, tail curled upwards but stationary, front paws planted firmly, ears perked up, happy expression. Eyes and nose are the center anchor points and locked.
+
+FRAME 2:
+Vector illustration, 1024x1024 pixels, centered Pomeranian dog, sunflower-yellow background, flat colors, bold black outlines, child-friendly style. Pomeranian slightly rotates its body to the left, tail wags slightly to the right, right front paw lifts slightly off the ground, ears slightly tilted forward. Head position, eye position, and nose position are IDENTICAL to Frame 1.
+
+FRAME 3:
+Vector illustration, 1024x1024 pixels, centered Pomeranian dog, sunflower-yellow background, flat colors, bold black outlines, child-friendly style. Pomeranian fully turned to the left, tail wagging high to the right, right front paw fully lifted, left front paw slightly lifting off the ground, ears fully forward. Head position, eye position, and nose position are IDENTICAL to Frames 1 and 2.
+
+SOUND:
+Pomeranian Panting, Animal : Dog

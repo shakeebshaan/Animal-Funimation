@@ -1,0 +1,14 @@
+ANIMAL: Marmoset
+BACKGROUND: aqua-blue background
+
+FRAME 1:
+Vector illustration, centered on a solid aqua-blue background, Marmoset with a dark brown back, bright orange tail, cream colored belly, and black and white face. The Marmoset is standing on its hind legs, front paws raised slightly and bent at the elbows, as if about to catch something. The head is upright and facing forward, eyes are wide and alert. Bold black outlines, flat colors, child-friendly style, 1024x1024 pixels, no text. The pose is playful, with a slight lean forward.
+
+FRAME 2:
+Vector illustration, centered on a solid aqua-blue background, Marmoset with a dark brown back, bright orange tail, cream colored belly, and black and white face. The Marmoset is standing on its hind legs, front paws reaching slightly higher than in the previous frame, elbows bent less. The head is upright and facing forward, eyes are wide and alert. Bold black outlines, flat colors, child-friendly style, 1024x1024 pixels, no text. Motion progression from frame 1. The head and eyes must remain in the exact same position as in frame 1.
+
+FRAME 3:
+Vector illustration, centered on a solid aqua-blue background, Marmoset with a dark brown back, bright orange tail, cream colored belly, and black and white face. The Marmoset is standing on its hind legs, front paws extended fully forward, as if having caught something. The head is upright and facing forward, eyes are wide and alert. Bold black outlines, flat colors, child-friendly style, 1024x1024 pixels, no text. Motion progression from frame 2. The head and eyes must remain in the exact same position as in frame 1 and 2. The tail is slightly more curved upwards.
+
+SOUND:
+Callitrichidae bark

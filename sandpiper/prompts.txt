@@ -1,0 +1,14 @@
+ANIMAL: Sandpiper
+BACKGROUND: butter-yellow background
+
+FRAME 1:
+A full, centered, vector-style illustration of a Sandpiper standing on one leg on a tan sandy surface. Solid butter-yellow background. The Sandpiper has a long, downward-curving beak, orange legs, and simple, round black eyes. Its feathers are various shades of brown and white in a simple pattern. Its head is tilted slightly to the left. The pose is playful and curious. Square image, 1024x1024 pixels, bold outlines, flat colors, child-friendly style.
+
+FRAME 2:
+A full, centered, vector-style illustration of a Sandpiper, nearly identical to frame 1, but it is beginning to lower its beak towards the ground, as if about to peck at something. Its head remains in the same position, but its body is tilting very slightly forward. Same tan sandy surface. Solid butter-yellow background. The Sandpiper has a long, downward-curving beak, orange legs, and simple, round black eyes. Its feathers are various shades of brown and white in a simple pattern. Square image, 1024x1024 pixels, bold outlines, flat colors, child-friendly style. The HEAD and EYES must remain in the EXACT SAME POSITION as frame 1.
+
+FRAME 3:
+A full, centered, vector-style illustration of a Sandpiper, completing the motion of frame 2. The Sandpiper's beak is now touching the tan sandy surface, as if it has just pecked at something. Its body is tilted further forward. Same tan sandy surface. Solid butter-yellow background. The Sandpiper has a long, downward-curving beak, orange legs, and simple, round black eyes. Its feathers are various shades of brown and white in a simple pattern. Square image, 1024x1024 pixels, bold outlines, flat colors, child-friendly style. The HEAD and EYES must remain in the EXACT SAME POSITION as frame 1 and frame 2.
+
+SOUND:
+Sanderling; Chirp

@@ -1,0 +1,14 @@
+ANIMAL: Heartbeat
+BACKGROUND: coconut-white background
+
+FRAME 1:
+A vector-style cartoon dog sitting upright, facing forward, ears flopped down, tail relaxed, no visible tongue, chest still. Coconut-white background. Bold black outlines, flat colors: tan body, brown ears, black nose. 1024x1024 pixels. The dog's head should be centered and facing forward with a neutral expression.
+
+FRAME 2:
+A vector-style cartoon dog sitting upright, facing forward, ears flopped down, tail wagging slightly to the right, chest slightly expanded. Coconut-white background. Bold black outlines, flat colors: tan body, brown ears, black nose. 1024x1024 pixels. The dog's head is in the exact same position as FRAME1.
+
+FRAME 3:
+A vector-style cartoon dog sitting upright, facing forward, ears flopped down, tail wagging fully to the left, chest fully contracted, tongue slightly visible. Coconut-white background. Bold black outlines, flat colors: tan body, brown ears, black nose. 1024x1024 pixels. The dog's head is in the exact same position as FRAME1 and FRAME2.
+
+SOUND:
+Regular, upbeat heartbeat. Animal : Dog

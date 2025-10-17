@@ -1,0 +1,14 @@
+ANIMAL: Sparrow
+BACKGROUND: lavender-lilac background
+
+FRAME 1:
+Full vector illustration of a chubby, cartoon Sparrow perched on a thin, stylized branch. Sparrow facing forward, cheerful expression. Body slightly angled to the left. Tail angled slightly down and to the left. Lavender-lilac solid background. Bold black outlines, flat colors: brown for the body, black and white for the head markings, yellow for the beak and feet. 1024x1024 pixels, square image, child-friendly style. Head is centered and stable, does not move across frames.
+
+FRAME 2:
+Vector illustration of the same Sparrow. Identical lavender-lilac background. Head and eyes are in the EXACT SAME POSITION as frame 1. Sparrow's body is now perfectly centered. Tail is raised slightly higher than in frame 1. Wings are beginning to spread slightly outward from its body. Branch remains the same. Bold black outlines, flat colors, child-friendly style, 1024x1024 pixels, square image.
+
+FRAME 3:
+Vector illustration of the same Sparrow, lavender-lilac background. Head and eyes are in the EXACT SAME POSITION as frames 1 and 2. Sparrow's wings are now fully extended upwards as if mid-flap. Body tilted very slightly back. Tail is now pointing upwards, angled slightly to the right. Branch remains the same. Bold black outlines, flat colors, child-friendly style, 1024x1024 pixels, square image.
+
+SOUND:
+American Tree Sparrow, soft chirping sound.

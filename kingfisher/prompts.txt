@@ -1,0 +1,14 @@
+ANIMAL: Kingfisher
+BACKGROUND: watermelon-red background
+
+FRAME 1:
+Vector illustration of a Belted Kingfisher, centered, playful pose, perched on a stylized branch, facing right, head cocked slightly, solid watermelon-red background, flat colors, bold black outlines, child-friendly style, square 1024x1024 pixels, beak closed, wings folded neatly at its sides.
+
+FRAME 2:
+Vector illustration of a Belted Kingfisher, same style as FRAME1, centered, head and eyes remain in the EXACT SAME POSITION as FRAME1, small motion progression: Kingfisher beginning to dip downward, tail feathers subtly flared outward, wings beginning to extend slightly away from the body, solid watermelon-red background, flat colors, bold black outlines, child-friendly style, square 1024x1024 pixels, beak slightly opened.
+
+FRAME 3:
+Vector illustration of a Belted Kingfisher, same style as FRAME1 and FRAME2, centered, head and eyes remain in the EXACT SAME POSITION as FRAME1 and FRAME2, motion completed: Kingfisher fully dipped downward as if diving, tail feathers flared wide, wings fully extended outward and downward, solid watermelon-red background, flat colors, bold black outlines, child-friendly style, square 1024x1024 pixels, beak wide open.
+
+SOUND:
+Belted Kingfisher Rattle : Dog Bark

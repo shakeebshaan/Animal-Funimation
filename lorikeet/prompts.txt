@@ -1,0 +1,14 @@
+ANIMAL: Lorikeet
+BACKGROUND: sunflower-yellow background
+
+FRAME 1:
+Full vector-style illustration of a Rainbow Lorikeet perched on a thick, stylized branch, centered in a 1024x1024 square image. Solid sunflower-yellow background. The Lorikeet is facing forward, wings folded neatly at its sides, head held high, looking directly at the viewer. Employ flat colors and bold black outlines, creating a child-friendly style. The Lorikeet has vibrant blue head and chest, green wings and back, red beak, and orange/yellow underparts. Eyes are large and black with small white highlights. The branch is a simple brown shape. Head and eye position will remain consistent across all frames.
+
+FRAME 2:
+Full vector-style illustration of the same Rainbow Lorikeet, centered in a 1024x1024 square image, on the same thick, stylized branch. Solid sunflower-yellow background. Head and eyes remain in the EXACT SAME POSITION as in FRAME 1. The Lorikeet has shifted its weight slightly, causing its body to rotate very slightly to the right (viewer's perspective). The wings are now beginning to extend outwards, hinting at taking flight. Employ flat colors and bold black outlines, creating a child-friendly style.
+
+FRAME 3:
+Full vector-style illustration of the same Rainbow Lorikeet now actively flapping its wings and about to fly, centered in a 1024x1024 square image, still perched on the same thick, stylized branch. Solid sunflower-yellow background. Head and eyes remain in the EXACT SAME POSITION as in FRAME 1 and FRAME 2. The Lorikeet's wings are fully extended upwards in mid-flap. The tail feathers are fanned out slightly for balance. Slight bend in legs to push off branch. Employ flat colors and bold black outlines, creating a child-friendly style.
+
+SOUND:
+Rainbow Lorikeet. Animal : Dog - Bark.

@@ -1,0 +1,14 @@
+ANIMAL: Weasel
+BACKGROUND: tangerine-orange background
+
+FRAME 1:
+Full vector-style illustration, centered, solid tangerine-orange background. A long-bodied, cartoonish weasel stands upright on its hind legs, arms slightly outstretched. Its head is facing forward with a curious expression. The style should be child-friendly with flat colors and bold black outlines. Image must be square 1024x1024 pixels.
+
+FRAME 2:
+Full vector-style illustration, centered, solid tangerine-orange background. The weasel remains in the same upright position, but its tail has swung slightly to the right, and its ears are now perked upwards a bit more. The HEAD and EYES must remain in the EXACT SAME POSITION as frame 1. The style should be child-friendly with flat colors and bold black outlines. Image must be square 1024x1024 pixels.
+
+FRAME 3:
+Full vector-style illustration, centered, solid tangerine-orange background. The weasel is now leaping forward slightly, its tail fully extended horizontally behind it, arms reaching forward as if to grab something, and with a more excited expression. The HEAD and EYES must remain in the EXACT SAME POSITION as frames 1 and 2. The style should be child-friendly with flat colors and bold black outlines. Image must be square 1024x1024 pixels.
+
+SOUND:
+Short-Tailed Weasel: "Squeak"

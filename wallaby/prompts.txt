@@ -1,0 +1,14 @@
+ANIMAL: Wallaby
+BACKGROUND: minty-teal background
+
+FRAME 1:
+A vector-style illustration of a Red-necked Pademelon, centered on a solid minty-teal background. The Pademelon is standing upright, looking directly forward with a friendly expression. Its head is centered and level. Its small arms are slightly bent at the elbows, held close to its chest. Its large feet are planted firmly. Its tail hangs straight down, slightly behind its legs. Bold black outlines define the shapes. Flat colors are used, with no gradients or shading. 1024x1024 pixels.
+
+FRAME 2:
+A vector-style illustration of a Red-necked Pademelon, centered on a solid minty-teal background. The Pademelon's head is in the EXACT SAME POSITION as in FRAME 1. Its small arms are now extended slightly outwards, as if beginning to reach for something. Its tail is now slightly curved upwards. Its legs remain planted. Bold black outlines define the shapes. Flat colors are used, with no gradients or shading. 1024x1024 pixels.
+
+FRAME 3:
+A vector-style illustration of a Red-necked Pademelon, centered on a solid minty-teal background. The Pademelon's head is in the EXACT SAME POSITION as in FRAME 1 and 2. Its small arms are fully extended forward. Its tail is now pointing upwards and curved more dramatically. Its legs remain planted. Bold black outlines define the shapes. Flat colors are used, with no gradients or shading. 1024x1024 pixels.
+
+SOUND:
+Red-necked Pademelon: Soft huffing sound similar to a small dog panting.

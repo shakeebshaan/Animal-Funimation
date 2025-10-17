@@ -1,0 +1,14 @@
+ANIMAL: Whistle
+BACKGROUND: pumpkin-orange background
+
+FRAME 1:
+Vector illustration of a cartoon dog whistle, bright pumpkin-orange background, dog whistle angled slightly upward. Whistle is a solid silver color with a black mouthpiece and a black ring for attaching to a lanyard. Dog whistle is not blowing in frame 1.
+
+FRAME 2:
+Vector illustration of a cartoon dog whistle, bright pumpkin-orange background. The position and shape of the dog whistle are identical to frame 1; ONLY a wisp of white air should begin to emit from the mouthpiece. This air should be slightly opaque and wispy. The ring attached to the whistle should be slightly displaced from the movement of air.
+
+FRAME 3:
+Vector illustration of a cartoon dog whistle, bright pumpkin-orange background. The position and shape of the dog whistle are identical to frames 1 & 2; a stream of white air is now powerfully emitting from the mouthpiece, wider than in frame 2. The air is opaque, moving quickly with motion trails. The ring attached to the whistle should be more displaced than in frame 2 from the movement of air.
+
+SOUND:
+High-pitched dog whistle, sharp, piercing. Example: High-frequency dog whistle.

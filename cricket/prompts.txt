@@ -1,0 +1,14 @@
+ANIMAL: Cricket
+BACKGROUND: bubble-blue background
+
+FRAME 1:
+Vector illustration, 1024x1024, centered, a bright green Cricket standing upright, facing forward, large friendly eyes, bubble-blue solid background, flat colors, thick black outlines, child-friendly style, Cricket holding a tiny bright red apple slice in its front legs, posed as if offering it to the viewer, a slight smile, legs angled slightly outward for balance.
+
+FRAME 2:
+Vector illustration, 1024x1024, centered, bright green Cricket standing upright, facing forward, large friendly eyes (EXACT SAME POSITION AS FRAME 1), bubble-blue solid background, flat colors, thick black outlines, child-friendly style, Cricket lifting the tiny bright red apple slice higher, front legs slightly more extended, slight body rotation towards the viewer, legs angled slightly outward for balance.
+
+FRAME 3:
+Vector illustration, 1024x1024, centered, bright green Cricket standing upright, facing forward, large friendly eyes (EXACT SAME POSITION AS FRAME 1), bubble-blue solid background, flat colors, thick black outlines, child-friendly style, Cricket tossing the tiny bright red apple slice up into the air with its front legs, apple slice above its head, body rotation angled furthest towards the viewer, legs angled slightly outward for balance.
+
+SOUND:
+Field Cricket chirp, similar to a Beagle bark.

@@ -1,0 +1,14 @@
+ANIMAL: Sugar Glider
+BACKGROUND: blueberry-blue background
+
+FRAME 1:
+Full vector illustration, sugar glider, blueberry-blue background, 1024x1024 pixels, child-friendly style, flat colors, bold outlines, sugar glider clinging to a thick green branch horizontally centered, eyes open and bright, ears perked up, tail curled slightly upwards and behind its back, front paws holding the branch, back paws tucked in close to its body.
+
+FRAME 2:
+Full vector illustration, sugar glider, blueberry-blue background, 1024x1024 pixels, child-friendly style, flat colors, bold outlines, sugar glider clinging to a thick green branch horizontally centered, eyes open and bright in the EXACT SAME POSITION AS FRAME 1, ears now slightly angled forward, tail extended further and slightly upwards, front paws reaching forward slightly away from the body, back paws beginning to extend downwards as if preparing to leap.
+
+FRAME 3:
+Full vector illustration, sugar glider, blueberry-blue background, 1024x1024 pixels, child-friendly style, flat colors, bold outlines, sugar glider leaping from a thick green branch horizontally centered, eyes open and bright in the EXACT SAME POSITION AS FRAME 1 AND 2, ears fully forward, tail extended straight out behind it, front paws fully extended forward, back paws fully extended backwards, body elongated as if gliding.
+
+SOUND:
+"Sugar Glider Squeak. Dog Bark."

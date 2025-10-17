@@ -1,0 +1,14 @@
+ANIMAL: Wombat
+BACKGROUND: blueberry-blue background
+
+FRAME 1:
+A cartoon common wombat standing upright on its hind legs, vector illustration, centered in a 1024x1024 square frame. The wombat has a small, stubby tail. Its front paws are held slightly in front of it, relaxed. Its eyes are wide and friendly. Flat colors with bold black outlines. The background is solid blueberry blue. Child-friendly style.
+
+FRAME 2:
+A cartoon common wombat standing upright on its hind legs, vector illustration, centered in a 1024x1024 square frame. The wombat is shifting its weight slightly, its tail is wagging a small amount to the right, and its front paws are now held slightly closer to its body compared to FRAME1. Its eyes are wide and friendly, same position as Frame 1. Flat colors with bold black outlines. The background is solid blueberry blue. Child-friendly style.
+
+FRAME 3:
+A cartoon common wombat standing upright on its hind legs, vector illustration, centered in a 1024x1024 square frame. The wombat has completely shifted its weight, its tail is now wagging slightly to the left. Its front paws are pressed to its chest in an excited manner. Its eyes are wide and friendly, same position as Frame 1. Flat colors with bold black outlines. The background is solid blueberry blue. Child-friendly style.
+
+SOUND:
+Common Wombat : Grunt, like a small dog.

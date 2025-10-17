@@ -1,0 +1,14 @@
+ANIMAL: Cockatiel
+BACKGROUND: banana-yellow background
+
+FRAME 1:
+A vector-style Cockatiel illustration centered on a 1024x1024 solid banana-yellow background. The Cockatiel is perched on a simple, flat green branch. Its head is facing forward, bright orange cheek patches, a prominent yellow crest pointing upwards, and black beady eyes. Its body is light gray with subtle white markings on the wings. The pose is slightly tilted to the right, giving a playful, curious impression. Black outlines are bold and clear. Child-friendly style.
+
+FRAME 2:
+A vector-style Cockatiel illustration centered on a 1024x1024 solid banana-yellow background. The Cockatiel is perched on the same simple, flat green branch. The head position REMAINS IDENTICAL to Frame 1. The body has shifted slightly to the LEFT, causing a small turn of the torso. The tail feathers are fanned out slightly more than in Frame 1. Crest remains in original position and unchanged in shape.
+
+FRAME 3:
+A vector-style Cockatiel illustration centered on a 1024x1024 solid banana-yellow background. The Cockatiel is perched on the same simple, flat green branch. The head position REMAINS IDENTICAL to Frame 1 and Frame 2. The body is now fully facing the viewer, with the wings slightly extended outwards from its body, as if about to take flight. The tail feathers are fully fanned out. Crest remains in original position and unchanged in shape.
+
+SOUND:
+Cockatiel chirping, specifically a happy, medium-pitched whistle. Example Animal: Bird

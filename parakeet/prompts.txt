@@ -1,0 +1,14 @@
+ANIMAL: Parakeet
+BACKGROUND: peach-orange background
+
+FRAME 1:
+Full vector-style illustration of a bright blue and yellow Parakeet perched on a thin, stylized branch, facing forward, with its wings neatly folded against its body. Its head is tilted slightly to the right. The background is a solid peach-orange. Flat colors, bold black outlines, child-friendly style, 1024x1024 pixels, centered.
+
+FRAME 2:
+Full vector-style illustration of the same bright blue and yellow Parakeet, head position identical to Frame 1. The branch remains in the exact same position. The Parakeet has slightly unfolded its wings, lifting them a few inches away from its body. Solid peach-orange background. Flat colors, bold black outlines, child-friendly style, 1024x1024 pixels, centered.
+
+FRAME 3:
+Full vector-style illustration of the same bright blue and yellow Parakeet, head position identical to Frame 1 and 2. The branch remains in the exact same position. The Parakeet has now fully extended its wings upward, as if it is about to take flight, but remains perched on the branch. Solid peach-orange background. Flat colors, bold black outlines, child-friendly style, 1024x1024 pixels, centered.
+
+SOUND:
+Budgerigar chirping, similar to Beagle barking.

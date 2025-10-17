@@ -1,0 +1,14 @@
+ANIMAL: Owl
+BACKGROUND: butter-yellow background
+
+FRAME 1:
+Full vector illustration, centered in a 1024x1024 square, solid butter-yellow background. A cute, stylized cartoon Burrowing Owl sitting upright, facing forward with large, round, innocent eyes. The owl has a short, stubby tail pointing straight down. Bold black outlines define the shape. Flat colors only: brown for the body, white for the chest and face markings, bright yellow eyes, and a light tan beak. The owl is in a playful pose, with its feet tucked underneath and small, triangular ears pointing upwards. Child-friendly style, no gradients or shading. Head and eyes must remain in the EXACT SAME POSITION in subsequent frames.
+
+FRAME 2:
+Full vector illustration, centered in a 1024x1024 square, solid butter-yellow background. A cute, stylized cartoon Burrowing Owl sitting upright, facing forward with large, round, innocent eyes. The owl's short, stubby tail is now slightly angled to the left. Its body is rotated very slightly to the left, but the head and eyes MUST remain in the EXACT SAME POSITION as frame 1. The small, triangular ears are now angled slightly outwards. Bold black outlines define the shape. Flat colors only: brown for the body, white for the chest and face markings, bright yellow eyes, and a light tan beak. Child-friendly style, no gradients or shading. Feet remain tucked.
+
+FRAME 3:
+Full vector illustration, centered in a 1024x1024 square, solid butter-yellow background. A cute, stylized cartoon Burrowing Owl sitting upright, facing forward with large, round, innocent eyes. The owl's short, stubby tail is now angled further to the left, almost horizontal. The body is rotated further left, completing the turn started in frame 2, BUT the head and eyes MUST remain in the EXACT SAME POSITION as frame 1 and 2. The small, triangular ears are now almost flat against the head. Bold black outlines define the shape. Flat colors only: brown for the body, white for the chest and face markings, bright yellow eyes, and a light tan beak. Child-friendly style, no gradients or shading. Feet remain tucked.
+
+SOUND:
+Burrowing Owl, woofing sound. (Owl Example Animal : Dog)

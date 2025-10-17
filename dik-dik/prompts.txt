@@ -1,0 +1,14 @@
+ANIMAL: Dik-dik
+BACKGROUND: mango-gold background
+
+FRAME 1:
+Full vector illustration, square 1024x1024, centered Dik-dik, solid mango-gold background, large expressive eyes, simplified forms, bold black outlines, flat colors, child-friendly style. Dik-dik standing alert, ears perked forward, tail slightly raised, small twig in mouth, front legs straight, back legs slightly bent. Head is facing forward.
+
+FRAME 2:
+Full vector illustration, square 1024x1024, centered Dik-dik, solid mango-gold background, large expressive eyes, simplified forms, bold black outlines, flat colors, child-friendly style. Dik-dik starting to hop: ears slightly back, tail higher, twig now angled upwards, front legs slightly bent, back legs pushing off the ground. Head position unchanged.
+
+FRAME 3:
+Full vector illustration, square 1024x1024, centered Dik-dik, solid mango-gold background, large expressive eyes, simplified forms, bold black outlines, flat colors, child-friendly style. Dik-dik mid-hop: ears fully back, tail pointing straight up, twig now pointing upwards, front legs extended forward, back legs tucked beneath body. Head position unchanged.
+
+SOUND:
+Kirk's Dik-dik. Dik-dik example Animal : Mouse

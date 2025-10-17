@@ -1,0 +1,14 @@
+ANIMAL: Wren
+BACKGROUND: sky-blue background
+
+FRAME 1:
+Vector illustration of a House Wren perched on a stylized twig with small green leaves. Wren is facing right, wings folded neatly, tail angled slightly upwards. Body is round and plump. Head is cocked slightly as if listening. Flat brown, tan, and cream color palette. Bold black outlines. Solid sky-blue square background. 1024x1024. Child-friendly style.
+
+FRAME 2:
+Vector illustration of a House Wren perched on the same stylized twig with small green leaves. Wren is facing right, body tilted very slightly further forward from the first frame. Wren's tail is now angled further upwards. Wings remain folded but are now slightly raised away from the body. Flat brown, tan, and cream color palette. Bold black outlines. Solid sky-blue square background. 1024x1024. Child-friendly style.
+
+FRAME 3:
+Vector illustration of a House Wren perched on the same stylized twig with small green leaves. Wren is facing right, wings now slightly unfurled. Wren is leaning forward. Wren's tail is angled straight up. Body is extended slightly. Flat brown, tan, and cream color palette. Bold black outlines. Solid sky-blue square background. 1024x1024. Child-friendly style.
+
+SOUND:
+House Wren Trill

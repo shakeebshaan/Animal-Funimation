@@ -1,0 +1,14 @@
+ANIMAL: Beaver
+BACKGROUND: rose-pink background
+
+FRAME 1:
+Vector illustration of a North American Beaver standing upright, centered on a solid rose-pink background. The beaver has a flat, reddish-brown coat, large buck teeth, and a flat, paddle-shaped tail resting on the ground. Its front paws are held up in a curious gesture, slightly off its chest. Large, round, black eyes looking directly at the viewer. Bold, black outlines. Child-friendly style. Image is 1024x1024 pixels. Eyes and head center are keyframed.
+
+FRAME 2:
+Vector illustration of a North American Beaver, continuation of Frame 1, centered on a solid rose-pink background. The beaver’s tail is now raised slightly off the ground, angled upward. The front paws are now reaching slightly further forward, as if gesturing. All other details remain the same as Frame 1: flat, reddish-brown coat, large buck teeth, large, round, black eyes looking directly at the viewer. Bold, black outlines. Child-friendly style. Image is 1024x1024 pixels. The position of the beaver's head and eyes are identical to Frame 1.
+
+FRAME 3:
+Vector illustration of a North American Beaver, continuation of Frame 2, centered on a solid rose-pink background. The beaver’s tail is now fully raised and waving back and forth. The front paws are reaching forward with palms slightly open, as if giving a small wave. All other details remain the same as Frame 1: flat, reddish-brown coat, large buck teeth, large, round, black eyes looking directly at the viewer. Bold, black outlines. Child-friendly style. Image is 1024x1024 pixels. The position of the beaver's head and eyes are identical to Frames 1 and 2.
+
+SOUND:
+North American Beaver : Bark

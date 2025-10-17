@@ -1,0 +1,14 @@
+ANIMAL: Penguin
+BACKGROUND: rosewater-pink background
+
+FRAME 1 PROMPT:
+Full vector-style illustration, square 1024x1024 pixels, centered, solid rosewater-pink background, a penguin standing upright facing forward with a slight smile. The penguin has large, round, fixed eyes, a yellow beak, a white belly, and black back and head. Its wings are held close to its body. The penguin is standing on bright white snow, but not sinking into the snow. Solid fill colors. Thick black outlines. Child-friendly style.
+
+FRAME 2 PROMPT:
+Full vector-style illustration, square 1024x1024 pixels, centered, solid rosewater-pink background, a penguin standing upright facing forward with a slight smile. The penguin has large, round, fixed eyes, a yellow beak, a white belly, and black back and head. Its wings are held close to its body, with the right wing very slightly lifted away from its body. The penguin is standing on bright white snow, but not sinking into the snow. Solid fill colors. Thick black outlines. Child-friendly style.
+
+FRAME 3 PROMPT:
+Full vector-style illustration, square 1024x1024 pixels, centered, solid rosewater-pink background, a penguin standing upright facing forward with a slight smile. The penguin has large, round, fixed eyes, a yellow beak, a white belly, and black back and head. Its wings are held close to its body, with the right wing slightly further lifted away from its body than in frame 2. The penguin is standing on bright white snow, but not sinking into the snow. Solid fill colors. Thick black outlines. Child-friendly style.
+
+SOUND PROMPT:
+Short flapping sound, like small wings quickly fluttering.
