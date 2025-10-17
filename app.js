@@ -224,27 +224,45 @@ function preloadImages() {
         let totalImages = 0;
         let loadedImages = 0;
         
+        // Count total images first
+        animals.forEach(animal => {
+            totalImages += animal.frames.length;
+            totalImages += animal.backgrounds.length;
+        });
+        
+        const progressFill = document.getElementById('progress-fill');
+        const progressPercent = document.getElementById('progress-percent');
+        
+        function updateProgress() {
+            const percent = Math.round((loadedImages / totalImages) * 100);
+            if (progressFill) progressFill.style.width = percent + '%';
+            if (progressPercent) progressPercent.textContent = percent + '%';
+            
+            if (loadedImages === totalImages) {
+                // Hide loading screen
+                const loadingScreen = document.getElementById('loading-screen');
+                if (loadingScreen) {
+                    loadingScreen.classList.add('hidden');
+                }
+                imagesPreloaded = true;
+                resolve();
+            }
+        }
+        
         animals.forEach(animal => {
             // Preload frames
             animal.frames.forEach(frame => {
                 const img = new Image();
                 img.onload = () => {
                     loadedImages++;
-                    if (loadedImages === totalImages) {
-                        imagesPreloaded = true;
-                        resolve();
-                    }
+                    updateProgress();
                 };
                 img.onerror = () => {
                     loadedImages++;
-                    if (loadedImages === totalImages) {
-                        imagesPreloaded = true;
-                        resolve();
-                    }
+                    updateProgress();
                 };
                 img.src = frame;
                 preloadContainer.appendChild(img);
-                totalImages++;
             });
             
             // Preload backgrounds
@@ -252,21 +270,14 @@ function preloadImages() {
                 const img = new Image();
                 img.onload = () => {
                     loadedImages++;
-                    if (loadedImages === totalImages) {
-                        imagesPreloaded = true;
-                        resolve();
-                    }
+                    updateProgress();
                 };
                 img.onerror = () => {
                     loadedImages++;
-                    if (loadedImages === totalImages) {
-                        imagesPreloaded = true;
-                        resolve();
-                    }
+                    updateProgress();
                 };
                 img.src = bg;
                 preloadContainer.appendChild(img);
-                totalImages++;
             });
         });
         
@@ -378,10 +389,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         display.addEventListener('touchstart', playCurrent, { passive: true });
         display.addEventListener('click', playCurrent);
     }
-
-    if (modeButton) {
-        modeButton.textContent = isRandom ? 'Switch to Serial Mode' : 'Switch to Random Mode';
-    }
 });
 
 function playCurrent() {
@@ -407,11 +414,7 @@ if (rightControl) {
     rightControl.addEventListener('click', () => {
         stopAudio();
         stopAnimation();
-        if (isRandom) {
-            currentIndex = Math.floor(Math.random() * animals.length);
-        } else {
-            currentIndex = (currentIndex + 1) % animals.length;
-        }
+        currentIndex = Math.floor(Math.random() * animals.length);
         loadAnimal(currentIndex);
         playAnimation();
     });
