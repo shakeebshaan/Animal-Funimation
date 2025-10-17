@@ -1,5 +1,12 @@
 // Animal Funimation App
 
+// Parse URL parameters
+const urlParams = new URLSearchParams(window.location.search);
+const requestedAnimal = urlParams.get('animal');
+const action = urlParams.get('action');
+const isFileOpen = urlParams.get('file') === 'open';
+const noteAction = urlParams.get('note');
+
 // List of animals - each has name, frames (array of paths), and sound (path or null)
 // Generated from actual directory structure and file existence.
 const animals = [
@@ -380,9 +387,79 @@ function playAnimation() {
     animationTimeout = setTimeout(animate, 333);
 }
 
+// Handle URL parameters for shortcuts and features
+function handleUrlParameters() {
+    if (requestedAnimal) {
+        const index = animals.findIndex(a => a.name === requestedAnimal);
+        if (index !== -1) {
+            currentIndex = index;
+        }
+    }
+
+    if (action === 'random') {
+        currentIndex = Math.floor(Math.random() * animals.length);
+    }
+
+    if (noteAction === 'new') {
+        showNoteInterface();
+        return; // Don't load animal if in note mode
+    }
+
+    if (window.location.pathname.includes('/share')) {
+        showShareInterface();
+        return;
+    }
+
+    loadAnimal(currentIndex);
+}
+
+// Show simple note-taking interface
+function showNoteInterface() {
+    document.body.innerHTML = `
+        <div style="padding: 20px; font-family: Arial, sans-serif;">
+            <h2>New Note</h2>
+            <textarea id="note-text" rows="10" cols="50" placeholder="Type your note here..."></textarea>
+            <br>
+            <button onclick="saveNote()" style="margin-top: 10px;">Save Note</button>
+            <button onclick="location.href='/'">Back to App</button>
+        </div>
+    `;
+}
+
+// Show simple share interface
+function showShareInterface() {
+    document.body.innerHTML = `
+        <div style="padding: 20px; font-family: Arial, sans-serif;">
+            <h2>Share</h2>
+            <form method="POST" enctype="multipart/form-data">
+                <input type="text" name="title" placeholder="Title"><br>
+                <textarea name="text" placeholder="Text to share"></textarea><br>
+                <input type="url" name="url" placeholder="URL"><br>
+                <input type="file" name="files" accept="image/*,audio/*" multiple><br>
+                <button type="submit">Share</button>
+            </form>
+            <button onclick="location.href='/'">Back to App</button>
+        </div>
+    `;
+}
+
+// Save note (simple implementation)
+function saveNote() {
+    const noteText = document.getElementById('note-text').value;
+    if (noteText) {
+        // In a real app, this would save to storage or server
+        localStorage.setItem('note_' + Date.now(), noteText);
+        alert('Note saved!');
+    }
+    location.href = '/';
+}
+
 // --- Event Listeners ---
 document.addEventListener('DOMContentLoaded', async () => {
     await preloadImages();
+
+    // Handle URL parameters after images loaded
+    handleUrlParameters();
 
     const display = document.getElementById('animal-display');
     if (display) {
