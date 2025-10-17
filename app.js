@@ -220,6 +220,7 @@ function stopAnimation() {
 
 const imgElement = document.getElementById('animal-image');
 const modeButton = document.getElementById('mode-toggle');
+const fullscreenButton = document.getElementById('fullscreen-toggle');
 
 // Preload all images into DOM
 function preloadImages() {
@@ -585,8 +586,27 @@ if (modeButton) {
     });
 }
 
+if (fullscreenButton) {
+    fullscreenButton.addEventListener('click', () => {
+        toggleFullscreen();
+    });
+}
+
 if (imgElement) {
     imgElement.addEventListener('contextmenu', e => e.preventDefault());
+}
+
+// Fullscreen functionality
+function toggleFullscreen() {
+    if (!document.fullscreenElement) {
+        document.documentElement.requestFullscreen().catch(err => {
+            console.error(`Error attempting to enable full-screen mode: ${err.message}`);
+        });
+    } else {
+        if (document.exitFullscreen) {
+            document.exitFullscreen();
+        }
+    }
 }
 
 // Initial load
