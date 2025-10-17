@@ -17,37 +17,37 @@
   "scope_extensions": [],
   "icons": [
     {
-      "src": "android-icon-36x36.png",
+      "src": "/Animal-Funimation/android-icon-36x36.png",
       "sizes": "36x36",
       "type": "image/png"
     },
     {
-      "src": "android-icon-48x48.png",
+      "src": "/Animal-Funimation/android-icon-48x48.png",
       "sizes": "48x48",
       "type": "image/png"
     },
     {
-      "src": "android-icon-72x72.png",
+      "src": "/Animal-Funimation/android-icon-72x72.png",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "android-icon-96x96.png",
+      "src": "/Animal-Funimation/android-icon-96x96.png",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "android-icon-144x144.png",
+      "src": "/Animal-Funimation/android-icon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "android-icon-192x192.png",
+      "src": "/Animal-Funimation/android-icon-192x192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icon-512x512.png",
+      "src": "/Animal-Funimation/icon-512x512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -55,42 +55,42 @@
   "prefer_related_applications": false,
   "screenshots": [
     {
-      "src": "screenshot1.png",
+      "src": "/Animal-Funimation/screenshot1.png",
       "sizes": "640x480",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Animal Animation Screen"
     },
     {
-      "src": "screenshot2.png",
+      "src": "/Animal-Funimation/screenshot2.png",
       "sizes": "640x480",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Background Display"
     },
     {
-      "src": "screenshot3.png",
+      "src": "/Animal-Funimation/screenshot3.png",
       "sizes": "640x480",
       "type": "image/png",
       "form_factor": "narrow",
       "label": "Puppy Animation"
     },
     {
-      "src": "screenshot1.png",
+      "src": "/Animal-Funimation/screenshot1.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Wide Animal Animation Screen"
     },
     {
-      "src": "screenshot2.png",
+      "src": "/Animal-Funimation/screenshot2.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
       "label": "Wide Background Display"
     },
     {
-      "src": "screenshot3.png",
+      "src": "/Animal-Funimation/screenshot3.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide",
@@ -110,7 +110,7 @@
       "url": "?action=random",
       "icons": [
         {
-          "src": "android-icon-96x96.png",
+          "src": "/Animal-Funimation/android-icon-96x96.png",
           "sizes": "96x96"
         }
       ]
@@ -122,7 +122,7 @@
       "url": "?animal=alpaca",
       "icons": [
         {
-          "src": "android-icon-96x96.png",
+          "src": "/Animal-Funimation/android-icon-96x96.png",
           "sizes": "96x96"
         }
       ]
@@ -134,7 +134,7 @@
       "url": "?animal=puppy",
       "icons": [
         {
-          "src": "android-icon-96x96.png",
+          "src": "/Animal-Funimation/android-icon-96x96.png",
           "sizes": "96x96"
         }
       ]
@@ -189,13 +189,13 @@
       "tag": "animal-widget",
       "screenshots": [
         {
-          "src": "screenshot1.png",
+          "src": "/Animal-Funimation/screenshot1.png",
           "sizes": "320x240"
         }
       ],
       "icons": [
         {
-          "src": "android-icon-192x192.png",
+          "src": "/Animal-Funimation/android-icon-192x192.png",
           "sizes": "192x192"
         }
       ]
