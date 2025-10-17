@@ -4,7 +4,7 @@
   "description": "Interactive animal animations and sounds for kids",
   "start_url": "index.html",
   "scope": "/Animal-Funimation/",
-  "display": "fullscreen",
+  "display": "standalone",
   "orientation": "landscape-primary",
   "background_color": "#000000",
   "theme_color": "#000000",
